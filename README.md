@@ -47,7 +47,7 @@ xelatex Assignment_A1.tex
 
 ## 使用 Makefile
 
-*[注] make 过程中有 `Enter file name：` 的地方手动回车 *
+*[注] make 过程中有 `Enter file name：` 的地方手动回车*
 
 ```shell
 # 生成 全部作业
