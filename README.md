@@ -24,7 +24,8 @@
 │       ├── GAN_loss.png
 │       └── gan_samples.png
 ├── exper_a4
-│   └── Assignment_A4.ipynb
+│   ├── Assignment_A4.ipynb
+│   └── Assignment_A4.pdf
 ├── Makefile
 └── README.md
 ```
