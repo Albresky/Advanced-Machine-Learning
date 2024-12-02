@@ -11,10 +11,21 @@
 ├── exper_a1
 │   └── Assignment_A1.ipynb
 ├── exper_a2
-│   └── Assignment_A2.ipynb
-├── experi_a3
+│   ├── Assignment_A2.ipynb
+│   └── cnn_cifar10.pth
+├── exper_a3
 │   ├── Assignment_A3_GAN.ipynb
-│   └── Assignment_A3_VAE.ipynb
+│   ├── Assignment_A3_GAN.pdf
+│   ├── c_generator.pth
+│   ├── generator.pth
+│   └── images
+│       ├── CGAN_loss.png
+│       ├── cgan_samples.png
+│       ├── GAN_loss.png
+│       └── gan_samples.png
+├── exper_a4
+│   └── Assignment_A4.ipynb
+├── Makefile
 └── README.md
 ```
 
@@ -64,6 +75,9 @@ make a3_gan
 
 # 生成 Assignment_A3_VAE.pdf
 make a3_vae
+
+# 生成 Assignment_A4.pdf
+make a4
 ```
 
 
