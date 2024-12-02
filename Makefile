@@ -7,14 +7,16 @@ PDF_CMD := $(TEX)
 A1_DIR := ./exper_a1
 A2_DIR := ./exper_a2
 A3_DIR := ./exper_a3
+A4_DIR := ./exper_a4
 
 BUILD_A1_DIR := $(BUILD_DIR)/$(A1_DIR)
 BUILD_A2_DIR := $(BUILD_DIR)/$(A2_DIR)
 BUILD_A3_DIR := $(BUILD_DIR)/$(A3_DIR)
+BUILD_A4_DIR := $(BUILD_DIR)/$(A4_DIR)
 
 AUTHOR := ShiKai@2024xxx
 
-.PHONY: a1 a2 a3 all
+.PHONY: a1 a2 a3 a4 all
 
 a1:
 	echo "Building Assignment A1..."
@@ -51,4 +53,12 @@ a3_vae:
 a3: a3_gan a3_vae
 	echo "Building Assignment A3..."
 
-all: a1 a2 a3
+a4:
+	echo "Building Assignment RNN of A4..."
+	mkdir -p $(BUILD_A4_DIR)
+	$(CONVERT_CMD) $(A4_DIR)/Assignment_A4.ipynb --output-dir $(BUILD_A4_DIR)
+	sed -i '1a\\\usepackage{fontspec, xunicode, xltxtra}\n\\setmainfont{WenQuanYi Zen Hei}' $(BUILD_A4_DIR)/Assignment_A4.tex
+	sed -i 's|\\title{.*}|\\title{Assignment A4-RNN by $(AUTHOR)}|' $(BUILD_A4_DIR)/Assignment_A4.tex
+	$(PDF_CMD) -output-directory=$(BUILD_A4_DIR) $(BUILD_A4_DIR)/Assignment_A4.tex
+
+all: a1 a2 a3 a4
