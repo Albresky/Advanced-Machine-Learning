@@ -62,3 +62,6 @@ a4:
 	$(PDF_CMD) -output-directory=$(BUILD_A4_DIR) $(BUILD_A4_DIR)/Assignment_A4.tex
 
 all: a1 a2 a3 a4
+
+clean:
+	rm -rf $(BUILD_DIR)
