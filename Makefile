@@ -16,7 +16,7 @@ BUILD_A4_DIR := $(BUILD_DIR)/$(A4_DIR)
 
 AUTHOR := ShiKai@2024xxx
 
-.PHONY: a1 a2 a3 a4 all
+.PHONY: a1 a2 a3 a4 all clean
 
 a1:
 	echo "Building Assignment A1..."
