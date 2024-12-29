@@ -3,13 +3,32 @@
  * 
  * @Author: Albresky
  * @Date: 2024-12-29 12:50:59
- * @LastEditTime: 2024-12-29 12:59:50
+ * @LastEditTime: 2024-12-29 15:55:03
  * @FilePath: /Advanced-Machine-Learning/data/README.md
  * 
  * @Description: 
  * @Descripttion: The dataset folder
- * @LastEditors: Albresky
+ * @LastEditors: Please set LastEditors
 -->
+
+# Before you start
+
+You should install `git-lfs` to make sure the LFS tracked files could be downloaded correctly.
+
+```shell
+sudo apt-get install git-lfs
+git lfs install
+```
+
+If the repo you are cloning from Hugging Face or Github has large files, you should use `git lfs clone` to clone that repo.
+
+FYI, the following command will clone the `glm-4-9b-chat-hf` repo from Hugging Face.
+
+```shell
+git lfs clone https://huggingface.co/THUDM/glm-4-9b-chat-hf/tree/main ./glm-4-9b-chat-hf
+```
+
+
 # Dataset
 
 You should download the following datasets and put them in this folder.
@@ -18,12 +37,12 @@ You should download the following datasets and put them in this folder.
 - [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) -> `./chatglm2-6b/`
 - [GSM8K](https://huggingface.co/datasets/openai/gsm8k) -> `./gsm8k/`
 - [First and Last Names Database](https://github.com/philipperemy/name-dataset) -> `./name_dataset/`
+- [ChatGLM4](https://huggingface.co/THUDM/glm-4-9b-chat-hf/tree/main) -> `./glm-4-9b-chat-hf`
 
-
-The folder structure should look like this:
+Finnally, the structure of this folder should be like this:
 
 ```
-data/
+./data/
 ├── chatglm2-6b
 │   ├── config.json
 │   ├── configuration_chatglm.py
@@ -42,7 +61,20 @@ data/
 │   ├── tokenization_chatglm.py
 │   ├── tokenizer_config.json
 │   └── tokenizer.model
-├── cifar-10-python.tar.gz
+├── glm-4-9b-chat-hf
+│   ├── config.json
+│   ├── configuration.json
+│   ├── generation_config.json
+│   ├── LICENSE
+│   ├── model-00001-of-00004.safetensors
+│   ├── model-00002-of-00004.safetensors
+│   ├── model-00003-of-00004.safetensors
+│   ├── model-00004-of-00004.safetensors
+│   ├── model.safetensors.index.json
+│   ├── README.md
+│   ├── README_zh.md
+│   ├── tokenizer_config.json
+│   └── tokenizer.json
 ├── gsm8k
 │   ├── test-00000-of-00001.parquet
 │   └── train-00000-of-00001.parquet
@@ -55,5 +87,6 @@ data/
 |   |   ├── ...
 |   |   └── ZA.csv
 │   └── description.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
