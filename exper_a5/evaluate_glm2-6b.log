@@ -1,0 +1,696 @@
+[2024-12-31 13:38:46,023][INFO] [Judge] [Truth]: Janet sells 16 - 3 - 4 = <<16-3-4=9>>9 duck eggs a day.
+She makes 9 * 2 = $<<9*2=18>>18 every day at the farmer’s market.
+#### 18
+[2024-12-31 13:38:46,023][INFO] [Judge] [Answer]: First find the number of eggs Janet eats: 3 eggs / day * 7 days / week * 4 weeks / month = 84 eggs / week. Then subtract the number of eggs she eats from the number of eggs she lays to find the number of eggs she sells: 16 eggs / day - 3 eggs / day = 13 eggs / day. Then multiply the number of eggs she sells by the number of days per week to find the number of eggs she sells per week: 13 eggs / day * 7 days / week = 91 eggs / week. Then multiply the number of eggs she sells by the number of weeks per month to find the number of eggs she sells per month: 91 eggs / week * 4 weeks / month = 364 eggs / month. Then multiply the number of eggs she sells by the price she sells them for to find the total amount of money she makes: 364 eggs / month * $2 / egg = $728 / month. Then divide the amount of money she makes by the number of days per month to find the average amount of money she makes per day: $728 / month / 30 days / month = $24 / day.
+The answer: 24.
+[2024-12-31 13:38:46,023][INFO] [Judge] 1. Truth: 18, Answer: 24
+[2024-12-31 13:38:47,043][INFO] [Judge] [Truth]: It takes 2/2=<<2/2=1>>1 bolt of white fiber
+So the total amount of fabric is 2+1=<<2+1=3>>3 bolts of fabric
+#### 3
+[2024-12-31 13:38:47,043][INFO] [Judge] [Answer]: If it takes 2 bolts of blue fiber, then it takes 2 / 2 = 1 bolt of white fiber. In total, it takes 2 bolts + 1 bolt = 3 bolts.
+The answer: 3.
+[2024-12-31 13:38:47,043][INFO] [Judge] 0. Truth: 3, Answer: 3
+[2024-12-31 13:38:49,215][INFO] [Judge] [Truth]: The cost of the house and repairs came out to 80,000+50,000=$<<80000+50000=130000>>130,000
+He increased the value of the house by 80,000*1.5=<<80000*1.5=120000>>120,000
+So the new value of the house is 120,000+80,000=$<<120000+80000=200000>>200,000
+So he made a profit of 200,000-130,000=$<<200000-130000=70000>>70,000
+#### 70000
+[2024-12-31 13:38:49,215][INFO] [Judge] [Answer]: The house was bought for $80,000 and $50,000 in repairs was added, meaning the house is now worth $80,000 + $50,000 = $130,000. The profit Josh made is the difference between the house's new value and its old value, which is $130,000 - $80,000 = $50,000.
+The answer: 50000.
+[2024-12-31 13:38:49,215][INFO] [Judge] 1. Truth: 70000, Answer: 50000
+[2024-12-31 13:38:50,709][INFO] [Judge] [Truth]: He sprints 3*3=<<3*3=9>>9 times
+So he runs 9*60=<<9*60=540>>540 meters
+#### 540
+[2024-12-31 13:38:50,709][INFO] [Judge] [Answer]: He runs 3 sprints * 60 meters per sprint = 180 meters per sprint. So he runs 180 meters per sprint * 3 sprints = 540 meters. So in total he runs 540 meters / sprint * 3 sprints = 1620 meters. The answer: 1620.
+[2024-12-31 13:38:50,709][INFO] [Judge] 1. Truth: 540, Answer: 1620
+[2024-12-31 13:38:52,867][INFO] [Judge] [Truth]: If each chicken eats 3 cups of feed per day, then for 20 chickens they would need 3*20=<<3*20=60>>60 cups of feed per day.
+If she feeds the flock 15 cups of feed in the morning, and 25 cups in the afternoon, then the final meal would require 60-15-25=<<60-15-25=20>>20 cups of chicken feed.
+#### 20
+[2024-12-31 13:38:52,867][INFO] [Judge] [Answer]: Wendi gives her chickens 15 cups of feed in the morning and another 25 cups of feed in the afternoon for a total of 15 + 25 = 40 cups of feed. Wendi gives her flock of chickens 3 cups of feed per chicken per day and has 20 chickens so 3 * 20 = 60 cups of feed. 40 cups of feed and 60 cups of feed = 100 cups of feed.
+The answer: 100.
+[2024-12-31 13:38:52,867][INFO] [Judge] 1. Truth: 20, Answer: 100
+[2024-12-31 13:38:54,177][INFO] [Judge] [Truth]: The discount price of one glass is 60/100 * 5 = $<<60/100*5=3>>3.
+If every second glass is cheaper, that means Kylar is going to buy 16 / 2 = <<16/2=8>>8 cheaper glasses.
+So for the cheaper glasses, Kylar is going to pay 8 * 3 = $<<8*3=24>>24.
+And for the regular-priced glasses, Kylar will pay 8 * 5 = $<<8*5=40>>40.
+So in total Kylar needs to pay 24 + 40 = $<<24+40=64>>64 for the glasses he wants to buy.
+#### 64
+[2024-12-31 13:38:54,177][INFO] [Judge] [Answer]: The cost of one glass is $5, so the cost of every second glass is $5 * 60 / 100 = $3. Kylar wants to buy 16 glasses, so the cost for them is $3 * 16 = $48.
+The answer: 48.
+[2024-12-31 13:38:54,177][INFO] [Judge] 1. Truth: 64, Answer: 48
+[2024-12-31 13:38:55,358][INFO] [Judge] [Truth]: If Seattle has 20 sheep, Charleston has 4 * 20 sheep = <<20*4=80>>80 sheep
+Toulouse has twice as many sheep as Charleston, which is 2 * 80 sheep = <<2*80=160>>160 sheep
+Together, the three has 20 sheep + 160 sheep + 80 sheep = <<20+160+80=260>>260 sheep
+#### 260
+[2024-12-31 13:38:55,358][INFO] [Judge] [Answer]: Toulouse has 2 * 4 = 8 sheep. Charleston has 4 * 8 = 32 sheep. Toulouse, Charleston, and Seattle have 8 + 32 + 20 = 60 sheep together.
+The answer: 60.
+[2024-12-31 13:38:55,358][INFO] [Judge] 1. Truth: 260, Answer: 60
+[2024-12-31 13:38:57,576][INFO] [Judge] [Truth]: First find how many gigabytes are in 40% of the file: 200 GB * 40% = <<200*40*.01=80>>80 GB
+Then divide that number by the download rate to find the time until Windows restarts: 80 GB / 2 GB/minute = <<80/2=40>>40 minutes
+Then find the time to download the whole file after the restart: 200 GB / 2 GB/minute = <<200/2=100>>100 minutes
+Then add the time to download 40% of the file, to download the whole file, and to wait for Windows to update: 40 minutes + 100 minutes + 20 minutes = <<40+100+20=160>>160 minutes
+#### 160
+[2024-12-31 13:38:57,576][INFO] [Judge] [Answer]: First find the total time Carla spends downloading the file: 200 GB / 2 GB / minute = 100 minutes. Then multiply that amount by 40% to find the amount of time the restart takes: 100 minutes / 40% = 25 minutes. Then add the time Carla spends restarting to the time it takes to download the file to find the total time: 100 minutes + 25 minutes = 125 minutes.
+The answer: 125.
+[2024-12-31 13:38:57,576][INFO] [Judge] 1. Truth: 160, Answer: 125
+[2024-12-31 13:39:01,194][INFO] [Judge] [Truth]: When he turned around he was 3*60=<<3*60=180>>180 miles from home
+He was only able to drive 4-2=<<4-2=2>>2 hours in the first four hours
+In half an hour he goes 30*.5=<<30*.5=15>>15 miles
+He then drives another 2-.5=<<2-.5=1.5>>1.5 hours
+In that time he goes 80*1.5=<<80*1.5=120>>120 miles
+So he drove 120+15=<<120+15=135>>135 miles
+So he is 180-135=<<180-135=45>>45 miles away from home
+#### 45
+[2024-12-31 13:39:01,194][INFO] [Judge] [Answer]: He is driving for 3 hours at a speed of 60 mph, so he drives 3 * 60 = 180 miles. He then turns around and drives back home, which takes 2 hours. He spends the first 2 hours in standstill traffic, so he is not driving. He then drives for the next half - hour at a speed of 30 mph, so he drives 30 * .5 = 15 miles. He then gets to driving again, and drives for the remaining 2 hours, at a speed of 80 mph. So he drives 80 * 2 = 160 miles. So in total, he drives 180 + 0 + 15 + 160 = 355 miles. Since he is driving home, he is not far from home at the end of those 4 hours.
+[2024-12-31 13:39:03,281][INFO] [Judge] [Truth]: Eliza is entitled to 45 -40 = <<45-40=5>>5 hours overtime pay.
+Her hourly rate for the overtime pay is $10 x 1.2 = $<<10*1.2=12>>12.
+So, Eliza will receive $12 x 5 =$<<12*5=60>>60 for overtime pay.
+Her regular weekly earning is $10 x 40 = $<<10*40=400>>400.
+Thus, Eliza will receive a total of $400 + $60 = $<<400+60=460>>460 for this week's work.
+#### 460
+[2024-12-31 13:39:03,281][INFO] [Judge] [Answer]: If Eliza worked for 40 hours and her rate is $10, then her total earnings for the 40 - hour work week is $10 * 40 = $400. The overtime pay that Eliza received for working 45 hours is $10 * 1.2 = $120. The total amount of money that Eliza earned for the week is $400 + $120 = $520.
+The answer: 520.
+[2024-12-31 13:39:03,281][INFO] [Judge] 1. Truth: 460, Answer: 520
+[2024-12-31 13:39:04,851][INFO] [Judge] [Truth]: The number of downloads of the program in the second month increased to 3*60 = <<3*60=180>>180
+In the first two months, the total number of downloads of the program was 180+60 = <<180+60=240>>240
+In the third month, the number of downloads of the program reduced by 30/100*180 = <<30/100*180=54>>54
+There were 180-54 = <<180-54=126>>126 downloads in the third month.
+In the three months, the total number of downloads of the program was 126+240 = <<126+240=366>>366
+#### 366
+[2024-12-31 13:39:04,851][INFO] [Judge] [Answer]: First Month: 60 downloads. Second Month:3(60) = 180 downloads. Third Month: (180 / 100) * 70% = 126 downloads. Total:60 + 180 + 126 = 366 downloads. The program had 366 downloads over the three months.
+[2024-12-31 13:39:07,694][INFO] [Judge] [Truth]: The total charge for the doughnuts was 3 x $68 = $<<3*68=204>>204.
+The total charge for the mini cupcakes was 2 x $80 = $<<2*80=160>>160.
+The total charge for the mini cheesecakes was 6 x $55 = $<<6*55=330>>330.
+Therefore the total amount Toula paid for the pastries was $204 + $160 + $330 = $<<204+160+330=694>>694.
+#### 694
+[2024-12-31 13:39:07,695][INFO] [Judge] [Answer]: For the donuts, Toula paid 3 * $68 = $<<3*68=204>>204. For the mini cupcakes, she paid 2 * $80 = $<<2*80=160>>160. For the mini cheesecakes, she paid 6 * $55 = $<<6*55=330>>330. The total cost for all the pastries was $204 + $160 + $330 = $<<204+160+330=794>>794. Answer: \boxed{794}.
+[2024-12-31 13:39:10,107][INFO] [Judge] [Truth]: He makes $10.5 selling lemons each year because 7 x 1.5 = <<7*1.5=10.5>>10.5
+He earns $7.5 each year from the lemon tree because 10.5 - 3 = <<10.5-3=7.5>>7.5
+It will take 12 years to earn enough to pay off the tree because 90 / 7.5 = <<90/7.5=12>>12
+He will make money in year 13 because 12 + 1 = <<12+1=13>>13
+#### 13
+[2024-12-31 13:39:10,108][INFO] [Judge] [Answer]: Each year, the tree will earn $1.5 x 7 = $105 in profits. The total profits will be $105 x 10 = $1050. The total costs will be $90 + $3 x 10 = $103. Therefore, the total profit will be $1050 - $103 = $1047. It will take 90 / 1047 = 0.83 years before he starts earning money. This is approximately 3 years.
+The answer: 3.
+[2024-12-31 13:39:10,108][INFO] [Judge] 1. Truth: 13, Answer: 3
+[2024-12-31 13:39:11,907][INFO] [Judge] [Truth]: First multiply the five remaining vacuum cleaners by two to find out how many Melanie had before she visited the orange house: 5 * 2 = <<5*2=10>>10
+Then add two to figure out how many vacuum cleaners she had before visiting the red house: 10 + 2 = <<10+2=12>>12
+Now we know that 2/3 * x = 12, where x is the number of vacuum cleaners Melanie started with. We can find x by dividing each side of the equation by 2/3, which produces x = 18
+#### 18
+[2024-12-31 13:39:11,907][INFO] [Judge] [Answer]: Melanie sold 5 / 2 = 2 vacuum cleaners to the orange house. She sold 2 + 2 = 4 vacuum cleaners in total. Melanie sold 3 / 3 = 1 vacuum cleaner to the green house. She sold 4 + 1 = 5 vacuum cleaners in total. Melanie started with 5 + 5 = 10 vacuum cleaners.
+The answer: 10.
+[2024-12-31 13:39:11,907][INFO] [Judge] 1. Truth: 18, Answer: 10
+[2024-12-31 13:39:14,579][INFO] [Judge] [Truth]: There are 20 x 20/100 = <<20*20/100=4>>4 students who enrolled in contemporary dance.
+So, 20 - 4 = <<20-4=16>>16 students are enrolled in either jazz or hip-hop dance.
+There are 16 x 25/100 = <<16*25/100=4>>4 students who enrolled in jazz dance.
+Hence, 16 - 4 = <<16-4=12>>12 students enrolled in hip-hop dance.
+This is 12/20 x 100% = 60% of the entire students.
+#### 60
+[2024-12-31 13:39:14,579][INFO] [Judge] [Answer]: The number of students enrolled in contemporary dance is 20% of the total number of students, meaning 20 / 100 * 20 = 4 students. The number of students enrolled in jazz dance is 25% of the total number of students, meaning 25 / 100 * 20 = 5 students. The number of students enrolled in hip - hop dance is the remaining number of students, which is 20 - 4 - 5 = 11 students. The percentage of the entire class enrolled in hip - hop dance is 11 / 20 * 100 = 55%.
+[2024-12-31 13:39:19,690][INFO] [Judge] [Truth]: If he purchases jewelry, he will make a profit of 2.5% which is $5000*(2.5/100) = $<<5000*(2.5/100)=125>>125
+If he purchases electronic gadgets, he will make a profit of 1.2% which is $8000*(1.2/100) = $<<8000*(1.2/100)=96>>96
+If he wants to maximize profit, since $125 > $96, he will choose to purchase jewelry, thereby making a profit of $<<125=125>>125
+#### 125
+[2024-12-31 13:39:19,690][INFO] [Judge] [Answer]: First, we need to determine the total increase in value of the jewelry and electronic gadgets. The increase in value for the jewelry is 2.5% * $5,000 = $1,250. The increase in value for the electronic gadgets is 1.2% * $8,000 = $960.
+
+Next, we need to determine the total cost of the jewelry and electronic gadgets. The total cost of the jewelry is $5,000 + $1,250 = $6,250. The total cost of the electronic gadgets is $8,000 + $960 = $9,960.
+
+Now, we can calculate the merchant's profit if he chooses the jewelry plan. The merchant's profit would be $6,250 - $5,000 = $1,250.
+
+If the merchant chooses the electronic gadgets plan, his profit would be $9,960 - $8,000 = $1,960.
+
+Therefore, the merchant would make $1,250 profit if he chooses the jewelry plan and $1,960 profit if he chooses the electronic gadgets plan.
+[2024-12-31 13:39:21,489][INFO] [Judge] [Truth]: On the first day, the trains covered 2 trains * 80 miles/train = <<2*80=160>>160 miles together.
+They also covered 150 miles/train * 2 trains = <<150*2=300>>300 miles together on the second day.
+The combined distance the two trains covered in the two days is 300 miles + 160 miles = <<300+160=460>>460 miles
+The average distance for the two days is 460 miles / 2 trains = <<460/2=230>>230 miles/train
+#### 230
+[2024-12-31 13:39:21,489][INFO] [Judge] [Answer]: In the first day, the trains travel a total of 80 miles + 80 miles = 160 miles. In the second day, the trains travel a total of 150 miles + 150 miles = 300 miles. In the two days, the trains travel a total of 160 miles + 300 miles = 460 miles.
+The answer: 460.
+[2024-12-31 13:39:21,489][INFO] [Judge] 1. Truth: 230, Answer: 460
+[2024-12-31 13:39:23,892][INFO] [Judge] [Truth]: First find the total amount Jill makes per week teaching: $20/hour * 35 hours/week = $<<20*35=700>>700/week
+Then find the total amount Jill makes per week coaching: $30/hour * 15 hours/week = $<<30*15=450>>450/week
+Then add those two amounts to find the total amount Jill makes per week: $700/week + $450/week = $<<700+450=1150>>1150/week
+Then multiply that number by the number of weeks Jill works in a year to find her annual salary: $1150/week * 50 weeks/year = $<<1150*50=57500>>57,500
+#### 57500
+[2024-12-31 13:39:23,892][INFO] [Judge] [Answer]: In a week, Jill earns $20 / hour x 35 hours / week = $700 from teaching. In a week, she earns $30 / hour x 15 hours / week = $450 from being a cheerleading coach. In a week, Jill earns an annual salary of $700 + $450 = $1150. In a year, working 50 weeks x $1150 / week = $57500. 
+
+So, the final answer is 57500.
+[2024-12-31 13:39:25,836][INFO] [Judge] [Truth]: She eats 3 eggs every day and there are 7 days in a week so she eats 3*7 = <<3*7=21>>21 eggs a week
+After 4 weeks she will have eaten 4*21 = <<4*21=84>>84 eggs
+There are 12 eggs in 1 dozen and she'll eat 84 eggs so that's 84/12 = <<84/12=7>>7 dozen eggs
+#### 7
+[2024-12-31 13:39:25,836][INFO] [Judge] [Answer]: An omelet is made with 2 eggs per 1 omelet. She makes a 3 egg omelet every morning so she eats 3 * 2 = 6 eggs every morning. In 4 weeks, she will eat 4 * 6 = 24 eggs. 1 dozen is equal to 12 eggs, so she will eat 24 / 12 = 2 dozens of eggs in 4 weeks.
+The answer: 2.
+[2024-12-31 13:39:25,836][INFO] [Judge] 1. Truth: 7, Answer: 2
+[2024-12-31 13:39:29,434][INFO] [Judge] [Truth]: First figure out how many hours it takes to hike a 12-mile trail at 4 mph by dividing the distance by the speed: 12 miles / 4 mph = <<12/4=3>>3 hours
+Next subtract the time Marissa already spent walking to find out how much time she has left: 3 hours - 1 hour - 1 hour = <<3-1-1=1>>1 hour
+Now figure out how much distance she has left by subtracting the distance she already traveled from the total distance: 12 miles - 4 miles - 2 miles = <<12-4-2=6>>6 miles
+Now divide the remaining distance by the remaining time to find out how fast in miles per hour Marissa has to travel: 6 miles / 1 hour = <<6/1=6>>6 mph
+#### 6
+[2024-12-31 13:39:29,435][INFO] [Judge] [Answer]: First find the total time it took to walk the first 4 miles: 4 miles / 4 miles / hour = 1 hour. Then find the total time it took to walk the next two miles: 2 miles / 4 miles / hour = 0.5 hours. Then add the time taken for the first two miles to the time taken for the first four miles to find the total time: 1 hour + 0.5 hours = 1.5 hours. Then divide the distance of the trail by the time taken to find Marissa's average speed: 12 miles / 1.5 hours = 8 miles / hour. Then subtract Marissa's average speed from 4 miles / hour to find the speed she needs to walk the remaining distance: 8 miles / hour - 4 miles / hour = 4 miles / hour.
+The answer: 4.
+[2024-12-31 13:39:29,435][INFO] [Judge] 1. Truth: 6, Answer: 4
+[2024-12-31 13:39:37,487][INFO] [Judge] [Truth]: There are 15 x 3/5 = <<15*3/5=9>>9 liters of water from the 15 liters pineapple drink.
+After 1 liter of orange drink was spilled, there were 10 - 1 = <<10-1=9>>9 liters of orange drink left.
+Out of the 9 liters, 9 x 2/3 = <<9*2/3=6>>6 liters are water.
+Thus, there are a total of 9 + 6 = <<9+6=15>>15 liters of water out of the 24 liters.
+#### 15
+[2024-12-31 13:39:37,487][INFO] [Judge] [Answer]: Step 1: Find the amount of water in the 10 liters of orange drink: 10 liters \* (2 / 3) = 6.67 liters
+Step 2: Find the amount of water in the 15 liters of pineapple drink: 15 liters \* (3 / 5) = 9 liters
+Step 3: Find the total amount of water in the 10 liters of orange drink and the 15 liters of pineapple drink: 6.67 liters + 9 liters = 15.67 liters
+Step 4: Subtract the amount of water that was spilled: 15.67 liters - 1 liter = 14.67 liters
+Step 5: Convert the amount of water from Step 4 to a percentage: 14.67 liters / 15.67 liters \* 100% = 92.56%
+Step 6: Convert the percentage to a volume: 92.56% \* 100% = 92.56 liters
+Step 7: Find the amount of water in the remaining 24 liters: 24 liters - 1 liter = 23 liters
+Step 8: Convert the amount of water from Step 7 to a percentage: 23 liters / 24 liters \* 100% = 91.67%
+Step 9: Convert the percentage to a volume: 91.67% \* 100% = 91.67 liters
+Step 10: Subtract the amount of water that was added from the original amount of water: 91.67 liters - 14.67 liters = 77 liters
+The answer: 77.
+[2024-12-31 13:39:37,487][INFO] [Judge] 1. Truth: 15, Answer: 77
+[2024-12-31 13:39:38,189][INFO] [Judge] [Truth]: When Raymond's son was born Samantha was 23 - 6 = <<23-6=17>>17 years old.
+Thus it has been 31 - 17 = <<31-17=14>>14 years since Raymond's son was born.
+#### 14
+[2024-12-31 13:39:38,189][INFO] [Judge] [Answer]: Raymond was born 6 years before Samantha, so Raymond's son was born 31 - 6 = 25 years ago. The answer: 25.
+[2024-12-31 13:39:38,189][INFO] [Judge] 1. Truth: 14, Answer: 25
+[2024-12-31 13:39:39,930][INFO] [Judge] [Truth]: His first 3 customers buy 3 * 1 = <<3*1=3>>3 DVDs.
+His next 2 buy 2 * 2 = <<2*2=4>>4 DVDs.
+He sells a total of 3 + 4 + 0 = <<3+4+0=7>>7 DVDs.
+#### 7
+[2024-12-31 13:39:39,930][INFO] [Judge] [Answer]: His first 3 customers bought 3 * 1 = 3 DVDs. His next 2 customers bought 2 * 2 = 4 DVDs. So in total, the first 3 + the next 2 = 7 customers bought 7 * 3 = 21 DVDs. Billy sold a total of 21 + 0 = 21 DVDs on Tuesday. The answer: 21.
+[2024-12-31 13:39:39,930][INFO] [Judge] 1. Truth: 7, Answer: 21
+[2024-12-31 13:39:41,066][INFO] [Judge] [Truth]: The candle burns for 5 - 1 = <<5-1=4>>4 hours.
+Thus, the candle will be 2 * 4 = <<2*4=8>>8 centimeters shorter.
+#### 8
+[2024-12-31 13:39:41,066][INFO] [Judge] [Answer]: The number of hours that the candle burns is 5:00 - 1:00 = 4 hours. The number of centimeters the candle burns in 4 hours is 4 * 2 = 8 centimeters.
+The final answer: 8.
+[2024-12-31 13:39:43,080][INFO] [Judge] [Truth]: Let X be the original price of the book. The discounted price is X - X*25% = $19.50.
+Combining like terms, we get .75X = $19.50
+Dividing both sides by .75, we get X = $26.
+#### 26
+[2024-12-31 13:39:43,080][INFO] [Judge] [Answer]: The original price of the book can be found by dividing the discount price by the discount percentage. In this case, the discount percentage is 100% - 25% = 75%. The 25% discount means that the book costs only 75% of the original price. Therefore, the original price of the book can be calculated as follows: $19.50 / 0.75 = $26.00. So the answer is 26.
+[2024-12-31 13:39:45,784][INFO] [Judge] [Truth]: Five packs of milk cost $3 x 5 = $<<3*5=15>>15.
+Four apples cost $1.50 x 4 = $<<1.5*4=6>>6.
+The total cost of the chicken meal, milk, and apples is $12 + $15 + $6 = $<<12+15+6=33>>33.
+Thus, the boxes of pizza cost $50 - $33 = $<<50-33=17>>17.
+Therefore, Marie ordered $17/$8.50 = <<17/8.5=2>>2 boxes of pizza.
+#### 2
+[2024-12-31 13:39:45,784][INFO] [Judge] [Answer]: Marie spent a total of $50 - $12 = $38 for the chicken meal and 5 packs of milk. The total cost for the 5 packs of milk is $3 x 5 = $15. The total cost for the 4 apples is $1.50 x 4 = $6. The total cost for the 5 items is $15 + $6 = $21. The remaining amount she spent for the boxes of pizza is $50 - $21 = $29. The number of boxes of pizza that Marie ordered is $29 / $8.50 = 3. The answer is 3.
+[2024-12-31 13:39:47,811][INFO] [Judge] [Truth]: 3 * (16.50 + 22.50 + 42) = $<<3*(16.50+22.50+42)=243>>243
+Mishka spent $243 on clothing.
+#### 243
+[2024-12-31 13:39:47,811][INFO] [Judge] [Answer]: The total cost of shorts is 3 x $16.50 = $49.50. The total cost of pants is 3 x $22.50 = $67.50. The total cost of shoes is 3 x $42 = $126. The total cost of all the clothing items is $49.50 + $67.50 + $126 = $233.
+The answer: 233.
+[2024-12-31 13:39:47,812][INFO] [Judge] 1. Truth: 243, Answer: 233
+[2024-12-31 13:39:50,441][INFO] [Judge] [Truth]: Each container of ice cream has 15 servings and she eats 1 serving a night so after 60 days she will need 60/15 = 4 containers of ice cream
+If each carton costs $4.00 and she needs 4 containers then it will cost her 4*4 = $<<4*4=16.00>>16.00
+#### 16
+[2024-12-31 13:39:50,441][INFO] [Judge] [Answer]: Since she eats one serving of ice cream every night and the cartons have 15 servings per carton, she eats 15 servings of ice cream per night.  Since there are 60 days in 60 days, she will have eaten 60 servings of ice cream.  Since each carton has 15 servings, the cartons will have been consumed in 60 / 15 = 4 cartons.  Since each carton costs $4.00, the 4 cartons will have cost 4 * 4 = $16.00.
+The answer: 16.
+[2024-12-31 13:39:50,441][INFO] [Judge] 0. Truth: 16, Answer: 16
+[2024-12-31 13:39:52,238][INFO] [Judge] [Truth]: He traveled 20 miles + 15 miles = <<20+15=35>>35 miles not counting the distance between stops.
+Henry traveled 60 miles - 35 miles = <<60-35=25>>25 miles between his first and second stop.
+#### 25
+[2024-12-31 13:39:52,238][INFO] [Judge] [Answer]: His first stop was 20 miles from the start so that means he covered 60 - 20 = 40 miles between the first two stops. The second stop was 15 miles from the end so that means he covered 60 - 15 = 45 miles from the second stop to the end. In total he covered 40 + 45 = 85 miles. The answer: 85.
+[2024-12-31 13:39:52,238][INFO] [Judge] 1. Truth: 25, Answer: 85
+[2024-12-31 13:39:53,865][INFO] [Judge] [Truth]: The second pair of heels costs 33 * 2 = $<<33*2=66>>66.
+The heels together cost 66 + 33 = $<<66+33=99>>99.
+The boots cost $5 more than both pairs of heels together, so the boots cost 99 + 5 = $104.
+#### 104
+[2024-12-31 13:39:53,865][INFO] [Judge] [Answer]: If one pair of heels costs $33, then the other pair costs $33 * 2 = $66. The two pairs of heels together cost $66 + $33 = $99. The boots are cheaper by $99 - $5 = $94. Therefore, the boots costs $94 / 2 = $47.
+The answer: 47.
+[2024-12-31 13:39:53,865][INFO] [Judge] 1. Truth: 104, Answer: 47
+[2024-12-31 13:39:56,303][INFO] [Judge] [Truth]: The total ratio representing their ages is 7+11= <<7+11=18>>18
+Since the fraction of the ratio that represents Allen's age is 11/18, Allen's current age is 11/18*162 = <<11/18*162=99>>99
+If Allen is currently 99 years old, in 10 years he will be 99+10 = <<99+10=109>>109 years old
+#### 109
+[2024-12-31 13:39:56,303][INFO] [Judge] [Answer]: The total ratio representing the ages of Darrell and Allen is 7 + 11 = 18 / 18 = 1 : 1. Since the sum of their ages now is 162, and the ratio is 1 : 1, then the sum of their ages is equal to 162 * 1 = 162. The age of Darrell is 1 / 2 * 162 = 81.
+
+Allen's age 10 years from now will be 81 + 10 = 91 years.
+[2024-12-31 13:39:59,027][INFO] [Judge] [Truth]: The second person guessed 60 because 20 + (80/2)= <<20+(80/2)=60>>60
+The second guessed 100 because 80 x 1.25 = <<80*1.25=100>>100
+The total amount guessed is 240 because 80 + 60 + 100 = <<80+60+100=240>>240
+The average amount guessed is 80 because 240 / 3 = <<240/3=80>>80
+#### 80
+[2024-12-31 13:39:59,027][INFO] [Judge] [Answer]: First find the first person's guess: 80. Then multiply that number by 2 to find the second person's guess: 80 * 2 = 160. Then divide that number by 2 to find the third person's guess: 160 / 2 = 80. Then add the first, second, and third person's guess to find the total: 80 + 160 + 80 = 320. Then divide the total guess by the number of people to find the average guess: 320 / 3 = 106. The answer: 106.
+[2024-12-31 13:39:59,027][INFO] [Judge] 1. Truth: 80, Answer: 106
+[2024-12-31 13:40:00,574][INFO] [Judge] [Truth]: He spends 10*.5=<<10*.5=5>>5 hours per day
+That means he spends 5*7=<<5*7=35>>35 hours per week
+#### 35
+[2024-12-31 13:40:00,574][INFO] [Judge] [Answer]: He takes 10 dogs and each dog takes .5 hours a day to walk and take care of their business so that's 10 * .5 = 5 hours. He takes care of the dogs for 5 hours a day and there are 7 days in a week so that's 5 * 7 = 35 hours. The answer is 35.
+[2024-12-31 13:40:01,461][INFO] [Judge] [Truth]: Let x be the number of silver coins Gretchen has
+Gretchen has x+30 gold coins.
+x+x+30=110
+2*x=80
+x=<<40=40>>40
+Gretchen has 40+30=<<40+30=70>>70 gold coins
+#### 70
+[2024-12-31 13:40:01,461][INFO] [Judge] [Answer]: Gretchen has 110 - 30 = 80 silver coins. Therefore, she has 80 + 30 = 110 gold coins.
+The answer: 110.
+[2024-12-31 13:40:01,461][INFO] [Judge] 1. Truth: 70, Answer: 110
+[2024-12-31 13:40:02,593][INFO] [Judge] [Truth]: Half of Raymond's jewels is 40/2 = <<40/2=20>>20
+Since Aaron has 5 more jewels than half of Raymond's jewels, he has 20+5 = <<5+20=25>>25 jewels.
+If Siobhan has 2 fewer jewels than Aaron, he has 25-2 = 23 jewels.
+#### 23
+[2024-12-31 13:40:02,593][INFO] [Judge] [Answer]: Half of Raymond's jewels are 40 / 2 = 20. Aaron has 20 + 5 = 25 jewels. Siobhan has 25 - 2 = 23 jewels.
+The answer: 23.
+[2024-12-31 13:40:02,593][INFO] [Judge] 0. Truth: 23, Answer: 23
+[2024-12-31 13:40:03,652][INFO] [Judge] [Truth]: He scored 4*.25=<<4*.25=1>>1 point more in the second 20 minutes
+So he scored 4+1=<<4+1=5>>5 points in the second 20 minutes
+So in total, he scored 4+5=<<4+5=9>>9 points in the 40 minutes
+#### 9
+[2024-12-31 13:40:03,652][INFO] [Judge] [Answer]: In the second 20 minutes, Mike scored 20 points because 25(20) = 50. In total, he scored 40 points because 4 + 50 = 54. The answer: 54.
+[2024-12-31 13:40:03,652][INFO] [Judge] 1. Truth: 9, Answer: 54
+[2024-12-31 13:40:05,429][INFO] [Judge] [Truth]: He eats 2 yogurts a day so over 30 days he will need 2*30 = <<2*30=60>>60 yogurts
+The yogurt is sold as 4 units for $5.00 and he needs 60 yogurts so that’s 60/4 = <<60/4=15>>15 4-packs
+Each 4-pack is $5.00 and he needs 15 4-packs so he will spend $5*15 = $<<5*15=75.00>>75.00 on yogurt
+#### 75
+[2024-12-31 13:40:05,429][INFO] [Judge] [Answer]: He eats 2 yogurt a day and they are on sale for 4 yogurt for $5.00 so they are 2 * 5 = $10.00. He spends $10.00 on yogurt and they are on sale every 30 days so he spends 10 * 30 = $300.00 on yogurt over 30 days.
+The answer: 300.
+[2024-12-31 13:40:05,429][INFO] [Judge] 1. Truth: 75, Answer: 300
+[2024-12-31 13:40:07,607][INFO] [Judge] [Truth]: He spent $160 on video games because 8 x 20 = <<8*20=160>>160
+He earned $165 from his sale because 160 + 5 = <<160+5=165>>165
+He sold 11 lego sets because 11 x 15 = <<11*15=165>>165
+He has 2 sets left because 13 - 11 = <<13-11=2>>2
+#### 2
+[2024-12-31 13:40:07,607][INFO] [Judge] [Answer]: He spent 15 x 13 = $195 on lego sets. He spent 20 x 8 = $160 on video games. He spent a total of $195 + $160 = $355. So he was left with $5 + $355 = $360. This means he had $360 - $13 x $15 = $210 after selling the lego sets. Therefore, he still has 13 lego sets.
+[2024-12-31 13:40:08,911][INFO] [Judge] [Truth]: He has 7-1=<<7-1=6>>6 possible running days.
+He runs half of those so he runs 6/2=<<6/2=3>>3 days.
+So for two days, he runs 3/2=<<3/2=1.5>>1.5 hours.
+So in total, he runs 3+1.5+1.5=<<3+1.5+1.5=6>>6 hours.
+So he runs 60/6=<<60/6=10>>10 mph.
+#### 10
+[2024-12-31 13:40:08,911][INFO] [Judge] [Answer]: He runs 3 / 2 = 1.5 hours the second and third day. So he runs a total of 3 + 1.5 + 1.5 = 6 hours. So he runs at a pace of 60 / 6 = 10 mph. The answer: 10.
+[2024-12-31 13:40:08,911][INFO] [Judge] 0. Truth: 10, Answer: 10
+[2024-12-31 13:40:12,489][INFO] [Judge] [Truth]: If Dana can skip at half the speed she can run, then she can run at 3*2=<<3*2=6>>6 miles per hour.
+And since she can run at a speed that is 4 times faster than she can walk, this means she can walk at 6/4=1.5 miles per hour.
+If two-thirds of the time is spent walking, then she walks for 6*(2/3)=<<6*(2/3)=4>>4 hours.
+If one-third of the time is spent running, then she runs for 6-4=<<6-4=2>>2 hours.
+Thus, she runs for 2 hours at 6 miles per hour, or 2*6=<<2*6=12>>12 miles.
+She walks for 4 hours at 1.5 miles per hour, or 4*1.5=<<4*1.5=6>>6 miles.
+Thus, altogether, she travels 12+6=<<12+6=18>>18 miles.
+#### 18
+[2024-12-31 13:40:12,489][INFO] [Judge] [Answer]: If Dana can skip at 3 miles per hour, then she can run at 3 * 4 = 12 miles per hour. Dana can run at a rate of 12 miles per hour, but she can skip at a rate of 3 miles per hour, so she runs at 12 - 3 = 9 miles per hour. Dana can run for 6 * 3 / 12 = 1.5 hours. Dana can run 1.5 * 9 = 13.5 miles. Dana can walk for 6 * 2 / 3 = 4 hours. Dana can walk 4 * 3 = 12 miles. Dana can travel a total of 13.5 + 12 = 25.5 miles in six hours if she spends one - third of the time running and two - thirds of the time walking.
+[2024-12-31 13:40:13,811][INFO] [Judge] [Truth]: Ben’s iPhone is 1*2 = <<1*2=2>>2 years old.
+Brandon’s iPhone is 4*2 = <<4*2=8>>8 years old.
+#### 8
+[2024-12-31 13:40:13,811][INFO] [Judge] [Answer]: If Suzy’s iPhone is 1 year old, then Ben's iPhone is 2 * 1 = 2 years old. Since Brandon's iPhone is four times as old as Ben's iPhone, then Brandon's iPhone is 2 * 4 = 8 years old.
+The answer: 8.
+[2024-12-31 13:40:13,811][INFO] [Judge] 0. Truth: 8, Answer: 8
+[2024-12-31 13:40:16,022][INFO] [Judge] [Truth]: With the gemstone, Polly could throw the javelin 3 times farther than 400 feet, for a distance of 3*400=<<3*400=1200>>1200 feet.
+1200 feet is beyond the 1000-foot reach of the dragon's flames by a distance of 1200-1000=<<1200-1000=200>>200 feet.
+#### 200
+[2024-12-31 13:40:16,022][INFO] [Judge] [Answer]: If the dragon's flames are 1000 feet away from the spot where the dragon is, and Polly is holding the sapphire gemstone, then she can throw the javelin 400 + 300 = 700 feet. This means that the dragon's flames are within 700 - 1000 = 300 feet of the spot where the dragon is. Therefore, Polly can stand outside of the reach of the dragon's flames 300 feet away.
+[2024-12-31 13:40:17,938][INFO] [Judge] [Truth]: To start the evening, there were 5 pies, each with 8 pieces, which is 5*8=<<5*8=40>>40 pieces of pie.
+If only 14 remained, then 40-14=<<40-14=26>>26 pieces of pie had been taken by guests.
+#### 26
+[2024-12-31 13:40:17,939][INFO] [Judge] [Answer]: Each pie was cut into 8 pieces, so each pie had 8 pieces remaining after the guests had eaten the pieces.  Since there were 5 pies, there were 5 x 8 = 40 pieces of pie eaten.  Since there were 14 pieces of pie remaining, that means the guests took 40 - 14 = <<40-14=26>>26 pieces of pie. Answer: \boxed{26}.
+[2024-12-31 13:40:21,194][INFO] [Judge] [Truth]: If the total calorie target is 2000 and I have consumed 1800 calories then I have 2000-1800 = <<2000-1800=200>>200 calories left to eat
+If each serving of chips has 250 calories and I only have 200 calories left to eat, then I can only eat 200/250 of a serving = 4/5 of a serving
+We also know that a 300g bag of chips has 5 servings, hence each serving has 300g/5 = <<300/5=60>>60 grams
+If I can only eat 4/5 of a serving, then I can eat only 60g * 4/5 = 240g/5 = 48 grams
+#### 48
+[2024-12-31 13:40:21,194][INFO] [Judge] [Answer]: You can eat 2000 - 1800 = 200g of chips per day if you want to stay under your daily calorie target. And the bag has 250 calories per serving, so you can eat 200g / 250 calories = 8 servings of chips per day. Therefore, you can eat 8 servings x 300g = 2400g of chips per day. So you can eat 2400g - 5 x 250g = 1900g of chips per day if you want to stay under your daily calorie target. Therefore, you can eat 1900g / 1000g = 19 servings of chips per day.
+[2024-12-31 13:40:23,578][INFO] [Judge] [Truth]: 1 pound of beeswax and the wick make 10 candles and he wants to make 20 candles so he needs 20/10 = <<20/10=2>>2 pounds of beeswax
+1 pound of beeswax costs $10.00 and he needs 2 pounds so his supplies will cost 10*2 = $<<10*2=20.00>>20.00
+He wants to sell each candle for $2.00 each and he's selling 20 candles so that's 2*20 = $<<2*20=40.00>>40.00
+If he makes $40.00 selling candles and his supplies cost $20.00 then his net profit is 40-20 = $<<40-20=20.00>>20.00
+#### 20
+[2024-12-31 13:40:23,579][INFO] [Judge] [Answer]: He makes 20 / 10 = 20 tapered candles. Each candle makes 10 / 20 = 0.5 pounds of wax. He uses 0.5 * 20 = 10 pounds of beeswax. His total cost of supplies was 10 * 2 = $20.00. His total revenue from selling the candles was 20 * 2 = $40.00. His total profit was 40 - 20 = $20.00.
+The answer: 20.
+[2024-12-31 13:40:23,579][INFO] [Judge] 0. Truth: 20, Answer: 20
+[2024-12-31 13:40:25,892][INFO] [Judge] [Truth]: If she wrote five articles on Monday, then on Tuesday she wrote 2/5* 5 = 2 more articles.
+The total number of articles she wrote on Tuesday is 5+2 = <<5+2=7>>7
+On Wednesday, the number of articles was twice the number she wrote on Tuesday, so it was 2*7 = <<2*7=14>>14 articles.
+Over the three days, she wrote 5+7 +14 = <<5+7+14=26>>26 articles.
+If each article takes her 4 hours to research and write about, she spent 4*26 = <<4*26=104>>104 hours on all the articles.
+#### 104
+[2024-12-31 13:40:25,892][INFO] [Judge] [Answer]: On Monday, Meredith wrote 5 / 5 = 1 article. She wrote 5 * 2 = 10 articles on Tuesday. The total number of articles she wrote on Monday and Tuesday is 1 + 10 = 11. On Wednesday, she wrote 10 * 2 = 20 articles. In the three days, Meredith wrote 11 + 20 = 31 articles. Therefore, she spent 31 * 4 = 124 hours writing articles. The answer: 124.
+[2024-12-31 13:40:25,892][INFO] [Judge] 1. Truth: 104, Answer: 124
+[2024-12-31 13:40:27,459][INFO] [Judge] [Truth]: Let's let x be the number of post-it notes in the package that Candice purchased.
+Then, the total number of post-it notes she had when she left the store was 80+x.
+And if she used 220 Post-it notes at work and had 23 left, then 80+x=220+23
+Subtracting 80 from each side of the equation, we see that x=220+23-80=<<220+23-80=163>>163 Post-it notes.
+#### 163
+[2024-12-31 13:40:27,459][INFO] [Judge] [Answer]: Let P be the number of post - it notes that Candice purchased. She had P + 80 post - it notes left before heading out to work. P + 80 + P = 230. 2P + 80 = 230. 2P = 150. P = 75. The answer: 75.
+[2024-12-31 13:40:27,459][INFO] [Judge] 1. Truth: 163, Answer: 75
+[2024-12-31 13:40:29,125][INFO] [Judge] [Truth]: He bought 200 / 40 = <<200/40=5>>5 blue ties
+So he bought 5 * 2 = <<5*2=10>>10 red ties
+Each red tie cost $40 * .5 = $<<40*.5=20>>20 more than blue ties
+So they each cost $40 + $20 = $<<40+20=60>>60
+So he spent $60 * 10 = $<<60*10=600>>600 on red ties
+So he spent $200 + $600 = $<<200+600=800>>800 on ties
+#### 800
+[2024-12-31 13:40:29,125][INFO] [Judge] [Answer]: He spent 2 * 40 = 80 dollars on red ties. The red ties cost 40 * .5 = 20 dollars more than the blue ties. So the blue ties cost 40 - 20 = 20 dollars. So he spent 200 + 80 + 20 = 208 dollars.
+The answer: 208.
+[2024-12-31 13:40:29,125][INFO] [Judge] 1. Truth: 800, Answer: 208
+[2024-12-31 13:40:30,786][INFO] [Judge] [Truth]: If Tracy used a piece of wire 4 feet long, since 1 foot is equal to 12 inches, the total length of the wire in inches was 12*4=<<12*4=48>>48 inches.
+Since the wire was cut into pieces 6 inches long, Tracy obtained 48/6=<<48/6=8>>8 pieces
+#### 8
+[2024-12-31 13:40:30,786][INFO] [Judge] [Answer]: 1 foot of wire is equal to 12 inches, so 4 feet of wire is equal to 48 inches. 48 inches of wire can be cut into 60 inches of pieces because 48 / 6 = 60. 60 pieces of wire are equal to 10 pieces because 60 / 6 = 10. The answer is 10.
+[2024-12-31 13:40:33,017][INFO] [Judge] [Truth]: The total number of units in the building will be 8 units/floor * 15 floors = <<8*15=120>>120 units.
+If 3/4 of the building is occupied, then the total number of occupied units is 3/4 * 120 units = <<3/4*120=90>>90 units.
+The total number of unoccupied units is 120 units - 90 units = <<120-90=30>>30 units.
+#### 30
+[2024-12-31 13:40:33,017][INFO] [Judge] [Answer]: If the apartment building has 15 floors and each floor has 8 units, the total number of units in the building is 15 floors \* 8 units / floor = 120 units. Since 3 / 4 of the building is occupied, there are 120 units \* 3 / 4 = 90 units in the building that are occupied. The number of unoccupied units in the building is 120 units - 90 units = 30 units.
+The answer: 30.
+[2024-12-31 13:40:33,017][INFO] [Judge] 0. Truth: 30, Answer: 30
+[2024-12-31 13:40:35,171][INFO] [Judge] [Truth]: In a week, Lloyd's egg farm produces 252 x 7 = <<252*7=1764>>1764 eggs.
+There are 1764/12 = <<1764/12=147>>147 dozens of eggs produced in a week.
+So, Lloyd makes 147 x $2 = $<<147*2=294>>294 on eggs.
+#### 294
+[2024-12-31 13:40:35,171][INFO] [Judge] [Answer]: Each week, Lloyd sells his eggs for 252 eggs / day * 7 days / week = 1764 eggs / week. If 1 dozen = 12 eggs, then 1764 eggs / week / 12 eggs / dozen = 142 dozen eggs / week. If 1 dozen egg costs $2, then 142 dozen eggs / week * $2 / dozen = $284.40 / week.
+The answer: 284.40.
+[2024-12-31 13:40:35,172][INFO] [Judge] 1. Truth: 294, Answer: 284.4
+[2024-12-31 13:40:36,476][INFO] [Judge] [Truth]: He was travelling at full speed for 4-1=<<4-1=3>>3 hours
+So he went 3*10=<<3*10=30>>30 miles
+That means it takes 30/6=<<30/6=5>>5 hours to get back
+#### 5
+[2024-12-31 13:40:36,476][INFO] [Judge] [Answer]: He is sailing for a total of 4 - 1 = 3 hours. So he is traveling 3 * 10 = 30 miles. He is traveling at a rate of 6 mph so he will take 30 / 6 = 5 hours to travel back.
+The answer: 5.
+[2024-12-31 13:40:36,477][INFO] [Judge] 0. Truth: 5, Answer: 5
+[2024-12-31 13:40:38,751][INFO] [Judge] [Truth]: 30 comic books weigh 7.5 pounds because 30 x .25 = <<30*.25=7.5>>7.5
+He needs to remove 7.5 more pounds because 15 - 7.5 = <<15-7.5=7.5>>7.5
+He needs to remove 15 toys because 7.5 / .5 = <<15=15>>15
+#### 15
+[2024-12-31 13:40:38,751][INFO] [Judge] [Answer]: Uriah has 1 / 4 pound comic books and 1 / 2 pound toys. He has 30 / 1 / 4 = 120 comic books. The comic books weigh 120 * 1 / 4 = 30 pounds. He needs to remove 15 - 30 = 15 pounds. The toys weigh 15 / 1 / 2 = 30 pounds. He needs to remove 30 - 15 = 15 pounds. The answer: 15.
+[2024-12-31 13:40:38,751][INFO] [Judge] 0. Truth: 15, Answer: 15
+[2024-12-31 13:43:23,238][INFO] [Judge] [Truth]: On Thursday the mechanic charged a total of 6*60 + 4*40 = $<<6*60+4*40=520>>520.
+On Friday the mechanic charged a total of 12*40 = $<<12*40=480>>480.
+Thus, on Thursday, the day with higher revenue, the mechanic had 520-480 = $<<520-480=40>>40 more revenue than on Friday.
+#### 40
+[2024-12-31 13:43:23,238][INFO] [Judge] [Answer]: On Thursday the mechanic earned 60 * 6 = $360 for repairing truck tires.  On Thursday the mechanic earned 40 * 4 = $160 for repairing car tires.  On Friday the mechanic earned 12 * 40 = $480 for repairing car tires.  In total the mechanic earned 360 + 160 + 480 = $1,100 for the day.  The mechanic earned an additional 60 - 12 = $48 for repairing car tires on Friday.  The mechanic earned an additional 12 * 60 = $720 for repairing truck tires on Thursday.  The mechanic earned an additional 480 - 60 = $420 for repairing truck tires on Friday.  In total the mechanic earned 1100 + 48 + 720 = $1,808 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned an additional 360 + 480 = $840 for the day.  The mechanic earned a total of 1808 + 840 = $2,648 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 2648 + 36 = $2,684 for the day.  The mechanic earned an additional 360 - 12 = $348 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 2684 + 348 + 528 = $3,740 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 3740 + 36 = $3,776 for the day.  The mechanic earned an additional 360 - 12 = $348 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 3776 + 528 = $4,304 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 4304 + 36 = $4,340 for the day.  The mechanic earned an additional 360 - 12 = $348 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 4340 + 528 = $4,868 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 4868 + 36 = $5,004 for the day.  The mechanic earned an additional 360 - 12 = $348 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 5004 + 528 = $5,532 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 5532 + 36 = $5,568 for the day.  The mechanic earned an additional 360 - 12 = $348 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 5568 + 528 = $6,196 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 6196 + 36 = $6,232 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 6232 + 528 = $6,760 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 6760 + 36 = $6,796 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 6796 + 528 = $7,324 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 7324 + 36 = $7,360 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 7360 + 528 = $7,888 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 7888 + 36 = $8,224 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 8224 + 528 = $8,752 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 8752 + 36 = $8,788 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 8788 + 528 = $9,316 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 9316 + 36 = $9,352 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 9352 + 528 = $9,880 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 9880 + 36 = $10,246 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 10246 + 528 = $10,774 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 10774 + 36 = $10,810 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 10810 + 528 = $11,338 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 11338 + 36 = $11,374 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 11374 + 528 = $11,902 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 11902 + 36 = $12,238 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 12238 + 528 = $12,766 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 12766 + 36 = $13,102 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 13102 + 528 = $13,630 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 13630 + 36 = $13,666 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 13666 + 528 = $14,294 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 14294 + 36 = $14,330 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 14330 + 528 = $14,858 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 14858 + 36 = $15,196 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 15196 + 528 = $15,724 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 15724 + 36 = $15,760 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 15760 + 528 = $16,288 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 16288 + 36 = $16,324 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 16324 + 528 = $16,852 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 16852 + 36 = $17,118 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 17118 + 528 = $17,646 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 17646 + 36 = $17,682 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 17682 + 528 = $18,210 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 18210 + 36 = $18,246 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 18246 + 528 = $18,774 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 18774 + 36 = $19,110 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 19110 + 528 = $20,638 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 20638 + 36 = $20,674 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 20674 + 528 = $21,202 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 21202 + 36 = $21,238 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 21238 + 528 = $21,766 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 21766 + 36 = $22,102 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 22102 + 528 = $22,630 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 22630 + 36 = $22,666 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 22666 + 528 = $23,194 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 23194 + 36 = $23,330 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 23330 + 528 = $23,858 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 23858 + 36 = $24,196 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 24196 + 528 = $24,724 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 24724 + 36 = $24,760 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 24760 + 528 = $25,288 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 25288 + 36 = $25,324 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 25324 + 528 = $25,852 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 25852 + 36 = $26,188 for the day.  The mechanic earned an additional 480 - 12 = $468 for repairing truck tires on Thursday.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 26188 + 528 = $26,716 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 26716 + 36 = $26,742 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 26,742 + 528 = $27,270 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 27,270 + 36 = $27,636 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 27,636 + 528 = $28,164 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 28,164 + 36 = $28,400 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 28,400 + 528 = $28,928 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 28,928 + 36 = $29,296 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 29,296 + 528 = $30,824 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 30,824 + 36 = $31,160 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 31,160 + 528 = $31,688 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 31,688 + 36 = $31,724 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 31,724 + 528 = $32,252 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 32,252 + 36 = $32,588 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 32,588 + 528 = $33,116 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 33,116 + 36 = $33,402 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 33,402 + 528 = $33,930 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 33,930 + 36 = $34,296 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 34,296 + 528 = $34,824 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 34,824 + 36 = $35,160 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 35,160 + 528 = $35,688 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 35,688 + 36 = $36,024 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 36,024 + 528 = $36,552 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 36,552 + 36 = $36,888 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 36,888 + 528 = $37,416 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 37,416 + 36 = $37,742 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 37,742 + 528 = $43,270 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 43,270 + 36 = $43,636 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 43,636 + 528 = $44,164 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 44,164 + 36 = $44,530 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 44,530 + 528 = $45,058 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 45,058 + 36 = $45,416 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 45,416 + 528 = $45,944 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 45,944 + 36 = $46,294 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 46,294 + 528 = $46,822 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 46,822 + 36 = $47,158 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 47,158 + 528 = $52,686 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 52,686 + 36 = $52,922 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 52,922 + 528 = $53,450 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 53,450 + 36 = $53,716 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 53,716 + 528 = $54,244 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 54,244 + 36 = $54,510 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 54,510 + 528 = $55,038 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 55,038 + 36 = $55,374 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 55,374 + 528 = $55,902 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 55,902 + 36 = $56,202 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 56,202 + 528 = $56,730 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 56,730 + 36 = $57,066 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 57,066 + 528 = $62,694 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 62,694 + 36 = $62,930 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 62,930 + 528 = $63,458 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 63,458 + 36 = $63,814 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 63,814 + 528 = $64,342 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 64,342 + 36 = $64,608 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 64,608 + 528 = $65,136 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 65,136 + 36 = $65,472 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 65,472 + 528 = $65,900 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 65,900 + 36 = $66,236 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 66,236 + 528 = $71,764 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 71,764 + 36 = $72,100 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 72,100 + 528 = $72,628 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a total of 72,628 + 36 = $72,904 for the day.  The mechanic earned an additional 480 + 48 = $528 for repairing car tires on Friday.  The mechanic earned a total of 72,904 + 528 = $73,432 for the day.  The mechanic earned an additional 48 - 12 = $36 for repairing car tires on Friday.  The mechanic earned a
+[2024-12-31 13:43:27,133][INFO] [Judge] [Truth]: Patchy has just had 3 * 7 = <<3*7=21>>21 kittens
+Since Trixie's kittens are 12, both cats have 21 +12 = <<21+12=33>>33 kittens.
+Combining the adopted kittens with those from the two cats, the Doubtfire family now has 7 + 33 = <<7+33=40>>40 kittens.
+#### 40
+[2024-12-31 13:43:27,133][INFO] [Judge] [Answer]: The Doubtfire sisters have a total of 7 + 2 = <<7+2=9>>9 kittens. The mother calls to inform them that their two house cats have had kittens. She tells them that Patchy, the first cat, has had thrice the number of adopted kittens, while Trixie, the other cat, has had 12. We know that Patchy has had 3 * 7 = <<3*7=21>>21 adopted kittens. Trixie has had 12 adopted kittens. In total, the Doubtfire family has had 21 + 12 = <<21+12=33>>33 adopted kittens. Therefore, the Doubtfire family now has a total of 9 + 33 = <<9+33=42>>42 kittens. The answer: \boxed{42}.
+[2024-12-31 13:43:28,627][INFO] [Judge] [Truth]: Jean has 30 - 2 = <<30-2=28>>28 lollipops
+Jean can fill up 28 / 2 = <<28/2=14>>14 bags with lollipops
+#### 14
+[2024-12-31 13:43:28,627][INFO] [Judge] [Answer]: After eating the 2 lollipops, Jean has 30 - 2 = <<30-2=28>>28 lollipops.
+To package the lollipops in one bag, Jean will need 28 / 2 = <<28/2=14>>14 bags.
+The answer: 14.
+[2024-12-31 13:43:28,627][INFO] [Judge] 0. Truth: 14, Answer: 14
+[2024-12-31 13:43:29,590][INFO] [Judge] [Truth]: It costs him $14 to go to the movies because 7 + 7 = <<7+7=14>>14
+He can go to the movies 3 times because 42 / 14 = <<42/14=3>>3
+#### 3
+[2024-12-31 13:43:29,590][INFO] [Judge] [Answer]: The total cost of the movie ticket and popcorn is $7 + $7 = $14. Peter has $42 / $14 = 3 sets of movie tickets. Therefore, he can go to the movies 3 times.
+[2024-12-31 13:43:34,420][INFO] [Judge] [Truth]: The boxes can weigh up to 5000 pounds - 3755 pounds = <<5000-3755=1245>>1245 pounds in total.
+There can be 1245 / 15 = <<1245/15=83>>83 boxes loaded onto the truck without exceeding the bridge's weight limit.
+#### 83
+[2024-12-31 13:43:34,421][INFO] [Judge] [Answer]: Let's first calculate the total weight of the truck and the bridge. The total weight of the truck is 3755 + 15 = 3770 pounds. The total weight of the bridge is 5000 pounds. We want to find the maximum number of boxes that can be loaded onto the truck while not exceeding the bridge's weight limit, which is 5000 pounds.
+
+We can calculate the total weight of the boxes by multiplying the weight of each box by the number of boxes. Let's say the number of boxes is x. The total weight of the boxes is 15x pounds.
+
+We want to find the maximum number of boxes that can be loaded onto the truck while not exceeding the bridge's weight limit, which is the total weight of the boxes plus the weight of the truck. This can be expressed as:
+
+15x + 3770 <= 5000
+
+We will solve for x:
+
+15x <= 1220
+
+x <= 83.33
+
+Therefore, the maximum number of boxes that can be loaded onto the truck is 83.
+[2024-12-31 13:43:36,076][INFO] [Judge] [Truth]: He spent $40.00 on groceries but they charged him a 25% fee so that's 40*.25 = $10.00
+There is also a $3.00 delivery fee and a $4.00 tip for an extra $3 + $4 = $<<3+4=7.00>>7.00 in fees
+His groceries were $40.00, there's a $10.00 fee plus another $7.00 in delivery/tip fees for a final total of $40 + $10 + $7 = $<<40+10+7=57.00>>57.00
+#### 57
+[2024-12-31 13:43:36,076][INFO] [Judge] [Answer]: Stephen's final bill came to $40.00 before the delivery fee, so the total was $40.00 + $3.00 = $43.00. Stephen's final bill was $43.00 + $4.00 = $47.00. The final price of Stephen's groceries was $47.00.
+[2024-12-31 13:43:37,510][INFO] [Judge] [Truth]: First find the number of fruit in clusters: 20 fruit/cluster * 6 clusters = <<20*6=120>>120 fruit
+Then add the number of individual fruit to find the total number of fruit: 120 fruit + 67 fruit = <<120+67=187>>187 fruit
+#### 187
+[2024-12-31 13:43:37,510][INFO] [Judge] [Answer]: First find the total number of fruit clusters: 6 clusters * 20 fruit / cluster = 120 fruit. Then add the number of individual fruits to find the total number of raspberries: 120 raspberries + 67 raspberries = 187 raspberries.
+The answer: 187.
+[2024-12-31 13:43:37,510][INFO] [Judge] 0. Truth: 187, Answer: 187
+[2024-12-31 13:43:39,286][INFO] [Judge] [Truth]: 20% of 25 oranges is (20/100)*25 = <<(20/100)*25=5>>5 oranges
+The total number of bad, unripe and sour oranges is therefore 1+5+2 = <<1+5+2=8>>8 oranges
+The rest which is 25-8 = <<25-8=17>>17 oranges are good
+#### 17
+[2024-12-31 13:43:39,286][INFO] [Judge] [Answer]: The number of oranges in the basket that are good is 25 - 1 - 20 / 100 * 20 = 22. The percentage of oranges in the basket that are good is 100 - 20 = 80. The number of oranges in the basket that are good is 22 / 0.8 = 27. The answer: 27.
+[2024-12-31 13:43:39,286][INFO] [Judge] 1. Truth: 17, Answer: 27
+[2024-12-31 13:43:40,934][INFO] [Judge] [Truth]: The total cost of the broch was 500+800=$<<500+800=1300>>1300
+The insurance was 1300*.1=$<<1300*.1=130>>130
+So she pays 1300+130=$<<1300+130=1430>>1430
+#### 1430
+[2024-12-31 13:43:40,934][INFO] [Judge] [Answer]: The total cost of the brooch was $500 + $800 = $1300. She paid $1300 * 10% = $130 for the insurance. So the total cost of the brooch was $1300 + $130 = $<<1300+130=1430>>1430.
+[2024-12-31 13:43:44,478][INFO] [Judge] [Truth]: First find how many years Marcy works after 20 years: 30 years - 20 years = <<30-20=10>>10 years
+Then multiply that number by the amount of her pension she gets per year: 10 years * 5% = 50%
+Then multiply that percentage by the total amount of the full pension to find how much she gets: $50,000 * 50% = $<<50000*50*.01=25000>>25,000
+#### 25000
+[2024-12-31 13:43:44,478][INFO] [Judge] [Answer]: First calculate the value of the pension before the 20th year: $50,000 / year * 20 years = $1,000,000. Then calculate the percentage of the value of the pension that Marcy is entitled to: 5 / 100 = 0.05. Multiply the value of the pension by the percentage to find out how much Marcy is entitled to: $1,000,000 * 0.05 = $50,000. Then subtract the amount of the pension from the amount Marcy gets each year to find out how much she will get each year: $50,000 - $50,000 = $0. Therefore, if Marcy quits after 30 years, her annual pension will be $0.
+[2024-12-31 13:43:47,720][INFO] [Judge] [Truth]: A year has twelve months, so a half of the year is 12/2 = <<12/2=6>>6 months,
+For the first six months, the streaming service charged her a total of 6*140 = $<<6*140=840>>840
+For the next half of the year, the streaming service company charged her 10/100*140 = $<<10/100*140=14>>14 less
+She paid $140-$14 = $<<140-14=126>>126 each month for the remaining half of the year,
+In total, she paid 126*6 = $<<126*6=756>>756 for the other half of the year for the streaming service.
+The total amount of money she paid at the end of the year is $840+$756 = $<<840+756=1596>>1596
+#### 1596
+[2024-12-31 13:43:47,720][INFO] [Judge] [Answer]: The first half of the year consists of 6 months, so if the streaming company charged Aleena $140 for the first 6 months, then she paid $140 * 6 = $840 for the first 6 months.
+
+For the second half of the year, the streaming company charged Aleena 10% less money, which is $140 - ($140 * (10 / 100)) = $136 less. In total, Aleena paid $840 + $136 = $976 for the second half of the year.
+
+Thus, the total amount Aleena paid for the streaming service by the end of the year is $840 + $976 = $1816.
+[2024-12-31 13:43:49,948][INFO] [Judge] [Truth]: To find miles per gallon divide 100 miles / 4 gallons = <<100/4=25>>25 miles per gallon
+To find how far Olivia can go on a single tank, multiply 25 miles per gallon x 12 gallons = <<25*12=300>>300 miles
+#### 300
+[2024-12-31 13:43:49,948][INFO] [Judge] [Answer]: Sophia's car uses 12 gallons of gas to travel 100 miles, so each gallon of gas will allow her to drive 100 / 12 = 8.33 miles. Sophia will have 12 gallons of gas remaining, so she can drive 12 * 8.33 = 99.96 miles before running out of gas. Therefore, Sophia can drive 100 - 100 / 12 = 99 miles on a single tank of gas.
+[2024-12-31 13:43:50,988][INFO] [Judge] [Truth]: He reads for 2/2=<<2/2=1>>1 hour a night
+So he spends 2+1=<<2+1=3>>3 hours on these activities
+That means he spends 3*3=<<3*3=9>>9 hours a week on them
+So in 4 weeks, he spends 9*4=<<9*4=36>>36 hours on these activities
+#### 36
+[2024-12-31 13:43:50,988][INFO] [Judge] [Answer]: He spends 2 * 3 = 6 hours watching TV. He spends 6 / 2 = 3 hours reading. In 4 weeks, he spends 6 + 3 = 9 hours on TV and reading. The answer: 9.
+[2024-12-31 13:43:50,988][INFO] [Judge] 1. Truth: 36, Answer: 9
+[2024-12-31 13:43:52,504][INFO] [Judge] [Truth]: Each school has sent 1 girls’ basketball team + 1 boys’ basketball team = <<1+1=2>>2 teams.
+So each school has sent 2 teams * 5 players per team = <<2*5=10>>10 players.
+They have also each sent 2 teams * 1 coach per team = <<2*1=2>>2 coaches.
+In total, each school has sent 10 players + 2 coaches = <<10+2=12>>12 people.
+Therefore, the schools have sent a total of 12 people per school * 4 schools = <<12*4=48>>48 people.
+#### 48
+[2024-12-31 13:43:52,504][INFO] [Judge] [Answer]: There are a total of 4 schools competing, so there are 4 teams * 5 players = 20 players on the teams. Each team has a coach, so there are 4 teams * 1 coach = 4 coaches. Therefore, there are a total of 20 players + 4 coaches = 24 people from all the schools that have been sent.
+[2024-12-31 13:43:54,094][INFO] [Judge] [Truth]: There were 175 - 35 = <<175-35=140>>140 rubies in the treasure chest.
+There were 140 x 2 = <<140*2=280>>280 emeralds in the treasure chest.
+So, the total number of gems in the treasure chest is 175 + 140 + 280 = <<175+140+280=595>>595.
+#### 595
+[2024-12-31 13:43:54,094][INFO] [Judge] [Answer]: The number of rubies in the chest was 175 - 35 = 140. The number of emeralds in the chest was 140 * 2 = 280. The total number of gems in the chest was 175 + 140 + 280 = 525.
+The answer: 525.
+[2024-12-31 13:43:54,094][INFO] [Judge] 1. Truth: 595, Answer: 525
+[2024-12-31 13:43:55,247][INFO] [Judge] [Truth]: There are twice as many boys as girls, so if there are 60 girls, there are 2*60 = <<2*60=120>>120 boys
+There are 120 + 60 = <<120+60=180>>180 students in total
+If there are 5 students to each teacher, then 180 students would need 180/5 = <<180/5=36>>36 teachers
+#### 36
+[2024-12-31 13:43:55,247][INFO] [Judge] [Answer]: There are 60 / 2 = 30 boys in the school. There are 30 + 60 = 90 students in the school. There are 90 / 5 = 18 teachers in the school.
+The answer: 18.
+[2024-12-31 13:43:55,247][INFO] [Judge] 1. Truth: 36, Answer: 18
+[2024-12-31 13:43:56,399][INFO] [Judge] [Truth]: In 8 weeks, Bailey receives $5 * 8 = $<<5*8=40>>40 in allowance
+Bailey started with $100 - $40 = $<<100-40=60>>60
+#### 60
+[2024-12-31 13:43:56,399][INFO] [Judge] [Answer]: Bailey has earned $5 x 8 = $40 after 8 weeks. Before her allowance, Bailey has $100 - $40 = $60. So, Bailey started with $60 + $5 = $65.
+The answer: 65.
+[2024-12-31 13:43:56,399][INFO] [Judge] 1. Truth: 60, Answer: 65
+[2024-12-31 13:43:57,791][INFO] [Judge] [Truth]: She teaches 5 dance classes 5 days a week so that's 5*5 = <<5*5=25>>25 classes
+She teaches 25 classes during the week and 8 classes on Saturday for a total of 25+8 = <<25+8=33>>33 classes
+There are 15 students in each of the 33 classes so there are 15*33 = <<15*33=495>>495 students
+Each student pays $15.00 per class and there are 495 students so Judy makes 15*495 = $<<15*495=7425>>7,425
+#### 7425
+[2024-12-31 13:43:57,791][INFO] [Judge] [Answer]: She teaches 5 classes x 5 days = 25 classes per week. She teaches 25 classes x 15 students = 375 students per week. She makes 375 students x $15.00 = $5625.00 per week. The answer: 5625.
+[2024-12-31 13:43:57,791][INFO] [Judge] 1. Truth: 7425, Answer: 5625
+[2024-12-31 13:43:58,720][INFO] [Judge] [Truth]: The second recipe has 2 * 20 instructions = <<2*20=40>>40 instructions.
+The total for the two dishes is 40 instructions + 20 instructions = <<40+20=60>>60 instructions.
+#### 60
+[2024-12-31 13:43:58,720][INFO] [Judge] [Answer]: The second recipe has 20 x 2 = 40 instructions. Therefore, Kelian has to read 20 + 40 = 60 instructions to prepare the two dishes. The answer: 60.
+[2024-12-31 13:43:58,720][INFO] [Judge] 0. Truth: 60, Answer: 60
+[2024-12-31 13:44:00,386][INFO] [Judge] [Truth]: Tommy raised 43 brownies x $3/brownie = $<<43*3=129>>129 by selling brownies.
+Tommy raised 23 slices x $4 = $<<23*4=92>>92 by selling cheesecakes.
+In total Tommy has raised $129 + $92 = $<<129+92=221>>221
+#### 221
+[2024-12-31 13:44:00,386][INFO] [Judge] [Answer]: Tommy sells 43 brownies at $3 per slice, so he raises 43 * 3 = $129. Tommy also sells 23 slices of cheesecake at $4 per slice, so he raises 23 * 4 = $92. In total, Tommy raises $129 + $92 = $221.
+The answer: 221.
+[2024-12-31 13:44:00,386][INFO] [Judge] 0. Truth: 221, Answer: 221
+[2024-12-31 13:44:02,829][INFO] [Judge] [Truth]: A $150 x 2/100 = $<<150*2/100=3>>3 interest will be charged for each unit.
+So, each cell phone costs $150 + $3 = $<<150+3=153>>153.
+The total amount to be paid for 5 cell phones is $153 x 5 = $<<153*5=765>>765.
+Thus, Shiela will pay $765/3 = $<<765/3=255>>255 each month.
+#### 255
+[2024-12-31 13:44:02,829][INFO] [Judge] [Answer]: Five cell phones for $150 each is a total of $150 x 5 = $750. The total amount for the 3 - month installment is $750 x 3 = $2250. The interest fee is $2250 x 2 / 100 = $45. So, the total amount of the loan is $2250 + $45 = $2295. Therefore, Shiela will pay $2295 / 3 = $732.50 each month for 3 months.
+[2024-12-31 13:44:05,303][INFO] [Judge] [Truth]: Artie will round his marigolds up from $2.74 to $3, since the number following the 2 is 5 or higher.
+Artie will round his petunias up from $1.87 to $2, since the number following the 1 is 5 or higher.
+Artie will round his begonias down from $2.12 to $2, since the number following the 2 is less than 5.
+Artie sells 12 marigolds x $3 = $<<12*3=36>>36
+Artie sells 9 petunias x $2 = $<<9*2=18>>18
+Artie sells 17 begonias x $2 = $<<17*2=34>>34
+Altogether, Artie will make $36 + $18 + $34 = $<<36+18+34=88>>88
+#### 88
+[2024-12-31 13:44:05,303][INFO] [Judge] [Answer]: Artie will make 12 * $2.74 = $32.88 from selling his marigolds. He will make 9 * $1.87 = $16.83 from selling his petunias. He will make 17 * $2.12 = $35.64 from selling his begonias. Overall he will make $32.88 + $16.83 + $35.64 = $84.35. He will round his total to the nearest dollar and his final answer will be $84.
+[2024-12-31 13:44:08,279][INFO] [Judge] [Truth]: Level 3 is 32 square feet because 16 x 2 = <<16*2=32>>32
+Level 2 is 64 square feet because 32 x 2 = <<32*2=64>>64
+Level 1 is 128 square feet because 64 x 2 = <<64*2=128>>128
+The four levels total to 240 square feet because 128 + 64 + 32 + 16 = <<128+64+32+16=240>>240
+The average square footage of a level is 60 because 240 / 4 = <<240/4=60>>60
+#### 60
+[2024-12-31 13:44:08,279][INFO] [Judge] [Answer]: If the sandcastle has 4 levels, then the square footage of each level is half the square footage of the previous level. If the top level has a square footage of 16, then the second level has a square footage of 16 / 2 = 8 square feet. The third level has a square footage of 8 / 2 = 4 square feet, and the fourth level has a square footage of 4 / 2 = 2 square feet. The total square footage of all levels is 16 + 8 + 4 + 2 = 30 square feet. The average square footage of a level is 30 / 4 = 7.5 square feet. The answer: 7.5.
+[2024-12-31 13:44:08,279][INFO] [Judge] 1. Truth: 60, Answer: 7.5
+[2024-12-31 13:44:10,766][INFO] [Judge] [Truth]: The number of cups of dog food given for the first 180 days is 180 * 1 = <<180*1=180>>180 cups
+The number of days left in the year is 365 - 180 = <<365-180=185>>185
+The number of cups of dog food given for the rest of the first year is 185 * 2 = <<185*2=370>>370 cups
+The total number of cups given in the first year is 180 + 370 = <<180+370=550>>550 cups
+The number of bags of dog food used in the first year is 550 / 110 = <<550/110=5>>5 bags
+#### 5
+[2024-12-31 13:44:10,766][INFO] [Judge] [Answer]: The first 180 days, the puppy will eat 180 days / 1 cup / day = 180 cups of food. The puppy will eat 2 cups of food for the rest of its life. 2 cups / day * 365 days = 730 cups of food. So in total, the puppy will eat 180 cups + 730 cups = 910 cups of food. This means she will need 910 cups of food / 110 cups / bag = 8 bags of food.
+The answer: 8.
+[2024-12-31 13:44:10,766][INFO] [Judge] 1. Truth: 5, Answer: 8
+[2024-12-31 13:44:12,166][INFO] [Judge] [Truth]: If Sarah does 400 pounds of laundry, and Raymond does half as much laundry as Sarah, Raymond does 1/2*400 = 200 pounds of laundry.
+Sara also does 4 times as much laundry as David, meaning David does 400/4 = <<400/4=100>>100 pounds of laundry.
+The difference in the amount of laundry Raymond and David do is 200-100 = <<200-100=100>>100 pounds
+#### 100
+[2024-12-31 13:44:12,167][INFO] [Judge] [Answer]: If Sarah does 4 times as much laundry as David, and Raymond does half as much as Sarah, then Raymond does 1 / 2 * 400 = 200 pounds of laundry. The difference in the amount of laundry Raymond and David do is 200 - 400 = -200 pounds of laundry.
+[2024-12-31 13:44:14,290][INFO] [Judge] [Truth]: Find how many packages of 3 would be needed which is 18 ÷ 3 = <<18/3=6>>6.
+The cost of using packages of 3 is 6 × $2.50 = $<<6*2.5=15>>15.
+Find how many packages of 2 would be needed which is 18 ÷ 2 = <<18/2=9>>9.
+The cost of using packages of 2 is 9 × $1 = $<<9*1=9>>9.
+Vincent would save $15 - $9 = $<<15-9=6>>6.
+#### 6
+[2024-12-31 13:44:14,291][INFO] [Judge] [Answer]: Vincent can buy 18 flowers in packages of 2 for $1, meaning he can buy them for 18 / 2 = $9. To buy the flowers in packages of 3 for $2.50, he would need to buy 18 / 3 = 6 packages. This would cost him 2.50 * 6 = $15. Therefore, Vincent can save 15 - 9 = $6 by buying the flowers in packages of 2. The answer: 6.
+[2024-12-31 13:44:14,291][INFO] [Judge] 0. Truth: 6, Answer: 6
+[2024-12-31 13:44:15,087][INFO] [Judge] [Truth]: The groomer gave a 100*.3=$<<100*.3=30>>30 discount
+So the grooming cost 100-30=$<<100-30=70>>70
+#### 70
+[2024-12-31 13:44:15,087][INFO] [Judge] [Answer]: The discount is 100 * .3 = $30. So the total cost is 100 - 30 = $70.
+The answer: 70.
+[2024-12-31 13:44:15,087][INFO] [Judge] 0. Truth: 70, Answer: 70
+[2024-12-31 13:44:16,998][INFO] [Judge] [Truth]: Each of the girls got 24 x 1/6 = <<24*1/6=4>>4 liters of water.
+So the two girls got a total of 4 x 2 = <<4*2=8>>8 liters.
+Thus, a total of 8 + 6 = <<8+6=14>>14 liters of water were gotten by the two girls and the boy.
+Therefore, 24 - 14 = <<24-14=10>>10 liters of water were left.
+#### 10
+[2024-12-31 13:44:16,998][INFO] [Judge] [Answer]: Two girls each got 1 / 6 of the 24 liters of water, so each girl got 24 * (1 / 6) = 4 liters of water. The total amount of water that the two girls got is 4 * 2 = 8 liters. After the boy got 6 liters of water, there were 24 - 6 = 18 liters of water left.
+The answer: 18.
+[2024-12-31 13:44:16,998][INFO] [Judge] 1. Truth: 10, Answer: 18
+[2024-12-31 13:44:19,366][INFO] [Judge] [Truth]: The total number of stickers is 10 + 21 + 23 = <<10+21+23=54>>54.
+The number of stickers given away and used on the greeting card is 9 + 28 = <<9+28=37>>37.
+Charlie has 54 − 37 = 17 stickers left.
+#### 17
+[2024-12-31 13:44:19,366][INFO] [Judge] [Answer]: Charlie had 10 stickers and bought 21 more, so he had 10 + 21 = 31 stickers. He got 23 stickers for his birthday, so he had 31 + 23 = 54 stickers. He gave 9 stickers to his sister, so he had 54 - 9 = 45 stickers. He used 28 stickers to decorate a greeting card, so he had 45 - 28 = 17 stickers.
+The answer: 17.
+[2024-12-31 13:44:19,366][INFO] [Judge] 0. Truth: 17, Answer: 17
+[2024-12-31 13:44:21,121][INFO] [Judge] [Truth]: Alex weighs 125*4-2 = <<125*4-2=498>>498.
+Their combined weights are 125+498 = <<125+498=623>>623 pounds.
+#### 623
+[2024-12-31 13:44:21,121][INFO] [Judge] [Answer]: Grace weighs 125 pounds. To find out how much Alex weighs, we need to multiply Grace's weight by 4, then subtract 2. 125 x 4 = 500. 500 - 2 = 498 pounds. Grace and Alex weigh 125 + 498 = 623 pounds combined.
+The answer: 623.
+[2024-12-31 13:44:21,121][INFO] [Judge] 0. Truth: 623, Answer: 623
+[2024-12-31 13:44:22,045][INFO] [Judge] [Truth]: First find the total number of roses: 3 bushes * 25 roses/bush = <<3*25=75>>75 roses
+Then multiply the number of roses by the number of thorns per rose: 75 roses * 8 thorns/rose = <<75*8=600>>600 thorns
+#### 600
+[2024-12-31 13:44:22,045][INFO] [Judge] [Answer]: He has 75 roses because 3 x 25 = 75. There are 200 thorns because 75 x 8 = 200. The answer is 200.
+[2024-12-31 13:44:22,899][INFO] [Judge] [Truth]: Let L be the number of losses.
+The number of wins is L + <<+8=8>>8.
+The team played (L+8) + L = 2L + 8 = 22 games.
+So, 2L = 22 - 8 = 14
+So L = 14/2 = <<14/2=7>>7 losses.
+Therefore, the team won 22 – 7 = <<22-7=15>>15 games.
+#### 15
+[2024-12-31 13:44:22,899][INFO] [Judge] [Answer]: The team won 22 games + 8 games = 30 games. The team won a total of 30 games - 22 games = 8 games.
+The answer: 8.
+[2024-12-31 13:44:22,899][INFO] [Judge] 1. Truth: 15, Answer: 8
+[2024-12-31 13:44:25,912][INFO] [Judge] [Truth]: Gene has been on 34 - 23 = <<34-23=11>>11 years of vacations, so he has 11 rows of blocks.
+He goes on 4 vacations a year, so he has been on 4 * 11 = <<4*11=44>>44 vacations.
+Gene has 1 shirt from each vacation, so he has 44 * 1 = <<44*1=44>>44 quilt blocks in all.
+#### 44
+[2024-12-31 13:44:25,912][INFO] [Judge] [Answer]: Gene has been on 4 vacations and has been vacationing since he was 23 so he has been going on vacations for 23 + 4 = <<23+4=27>>27 years.
+He has 1 shirt from each of those 27 vacations and has been sewing a quilt out of those shirts. Each shirt is a separate quilt block.
+So in total, he has 27 separate quilt blocks. Since each row is made up of blocks from a different year of vacations, each row has 27 unique blocks.
+Thus, Gene has a total of 27 blocks / row * 4 rows = <<27*4=108>>108 quilt blocks.
+[2024-12-31 13:44:27,130][INFO] [Judge] [Truth]: The second time Greg’s alarm went off, it rang three times as long as the first, so it rang 3 * 4 = <<3*4=12>>12 times the second time.
+The third time it went off, it rang half as long as the second, so it rang 12 / 2 = <<12/2=6>>6 times the third time.
+In all, Greg’s alarm rang 4 + 12 + 6 = <<4+12+6=22>>22 times.
+#### 22
+[2024-12-31 13:44:27,131][INFO] [Judge] [Answer]: The second time the alarm went off, it rang for 3 * 4 = 12 times. The third time, it rang for 12 / 2 = 6 times. In all, the alarm has rung 4 + 12 + 6 = 22 times.
+[2024-12-31 13:44:28,762][INFO] [Judge] [Truth]: In a month, Sylvie earns $600. which totals $600/month * 12 months/year = $7200 in a year.
+Sylvie earnings will increase by 10/100 * $7200/year = $<<10/100*7200=720>>720/year after 5 years.
+In three years, the total increase in her salary will be 3 years * $720/year = $<<3*720=2160>>2160
+After three years, Sylvie will be paid $7200 + $2160 = $<<7200+2160=9360>>9360
+#### 9360
+[2024-12-31 13:44:28,762][INFO] [Judge] [Answer]: Sylvie's annual salary after 5 years is $600 * 110 / 10 = $660. Since Sylvie just clocked 5 years in the company last December, her annual salary after 3 more years of service will be $660 * 110 / 10 = $720.
+The answer: 720.
+[2024-12-31 13:44:28,762][INFO] [Judge] 1. Truth: 9360, Answer: 720
+[2024-12-31 13:44:30,956][INFO] [Judge] [Truth]: Let m be the number of copies Marilyn sold and h be the number Harald sold. We know that m + h = 80,000 and m = 10h.
+Substituting the second equation into the first, we get 10h + h = 88,000
+Combining like terms, we get 11h = 88,000
+Dividing both sides by 11, we get h = 8,000
+#### 8000
+[2024-12-31 13:44:30,956][INFO] [Judge] [Answer]: Let H be the number of copies Harald sold. If Marilyn's first record sold 10 times as many copies as Harald's, then Marilyn sold 10H copies. Together, they sold H + 10H = 88,000 copies. Combining like terms, we get 11H = 88,000. Dividing both sides by 11, we find that Harald sold H = 8000 copies.
+The answer: 8000.
+[2024-12-31 13:44:30,956][INFO] [Judge] 0. Truth: 8000, Answer: 8000
+[2024-12-31 13:44:32,224][INFO] [Judge] [Truth]: She needs 12 gift bags because 16 x .75 = <<16*.75=12>>12
+She will spend $24 because 12 x 2 = <<12*2=24>>24
+#### 24
+[2024-12-31 13:44:32,224][INFO] [Judge] [Answer]: She invited 16 friends and needs .75 gift bags per invited guest so she needs 16 * .75 = 12 gift bags. The gift bags are $2 each and she needs 12 gift bags so she will spend 2 * 12 = $24.00.
+[2024-12-31 13:44:34,313][INFO] [Judge] [Truth]: Half of 10 pounds is 10/2=<<10/2=5>>5 pounds.
+To feed 20 dinosaur adults, he will need 20*10=<<20*10=200>>200 pounds of potato salad.
+To feed 5 dinosaur children, he will need 5*5=<<5*5=25>>25 pounds of potato salad.
+In total, he will need to bring 200+25=<<200+25=225>>225 pounds of potato salad to the picnic.
+#### 225
+[2024-12-31 13:44:34,313][INFO] [Judge] [Answer]: The 20 adults will eat 20 * 10 = 200 pounds of potato salad. The 5 children will eat half as much, or 10 / 2 = 5 pounds of potato salad each. The children will eat a total of 5 * 5 = 25 pounds of potato salad. Ted will need to bring a total of 200 + 25 = 225 pounds of potato salad to the picnic.
+The answer: 225.
+[2024-12-31 13:44:34,313][INFO] [Judge] 0. Truth: 225, Answer: 225
+[2024-12-31 13:44:35,804][INFO] [Judge] [Truth]: Marcia has 4 + 2 = <<4+2=6>>6 pets.
+Jan has 3 * 6 = <<3*6=18>>18 pets
+In total, the three have 4 + 6 + 18 = <<4+6+18=28>>28 pets.
+#### 28
+[2024-12-31 13:44:35,804][INFO] [Judge] [Answer]: If Cindy has four pets, then Marcia has 4 + 2 = 6 pets. Since Jan has three times the number of pets as Marcia, then Jan has 3 * 6 = 18 pets. Therefore, the three have a total of 4 + 6 + 18 = 28 pets.
+The answer: 28.
+[2024-12-31 13:44:35,804][INFO] [Judge] 0. Truth: 28, Answer: 28
+[2024-12-31 13:44:37,811][INFO] [Judge] [Truth]: James is 10 and 1 year younger than Corey, so Corey is 10 + 1 = <<10+1=11>>11 years old
+Amy is 2 years younger than Corey so is 11 - 2 = 9 years old
+Amy is also 5 years older than Jackson, so Jackson is 9 - 5 = <<9-5=4>>4 years old
+#### 4
+[2024-12-31 13:44:37,811][INFO] [Judge] [Answer]: First, we know that James is 10 years old and is 1 year younger than Corey. Therefore, Corey is 11 years old.
+We also know that Amy is 5 years older than Jackson and 2 years younger than Corey. Therefore, Amy is 13 years old.
+Finally, we can determine that Jackson is 11 years old because he is 2 years younger than Corey and the same age as James.
+The answer: 11.
+[2024-12-31 13:44:37,811][INFO] [Judge] 1. Truth: 4, Answer: 11
+[2024-12-31 13:44:39,595][INFO] [Judge] [Truth]: If Lee runs the 400-meter hurdles in 38 seconds, which was two seconds faster than Gerald used to run the 400-meter hurdles, then Gerald initially would run the 400-meter hurdles in 38+2=<<38+2=40>>40 seconds.
+10% of 40 seconds is 40*0.1=<<40*0.1=4>>4 seconds.
+The improved diet reduced Gerald's race time to 40-4=<<40-4=36>>36 seconds.
+#### 36
+[2024-12-31 13:44:39,596][INFO] [Judge] [Answer]: Lee's time of 38 seconds is the same as Gerald's time before his diet changed, so we know that before his diet changed, Gerald's time was also 38 seconds. We know that Gerald's diet improved his speed by 10%, so his time would be 10% slower, or 0.1 * 38 = 3.8 seconds.
+The answer: 3.8.
+[2024-12-31 13:44:39,596][INFO] [Judge] 1. Truth: 36, Answer: 3.8
+[2024-12-31 13:44:41,505][INFO] [Judge] [Truth]: If there are two cats for every dog, and the number of dogs is 60, the number of cats is 2*60 = <<2*60=120>>120
+The combined number of cats and dogs is 120+60 = <<120+60=180>>180
+The number of rabbits pets is twelve less than the combined number of pet dogs and cats, a total of 180-12 = 168
+The total number of pets in the compound is 168+180 = <<168+180=348>>348
+#### 348
+[2024-12-31 13:44:41,505][INFO] [Judge] [Answer]: If there are two cats for every dog, and the number of dogs is 60, there are 60 / 2 = 30 cats. If the number of rabbits is twelve less than the combined number of pet dogs and cats, then the number of rabbits is 30 - 12 = 18. The total number of pets in the neighborhood is 18 + 60 = 78.
+The answer: 78.
+[2024-12-31 13:44:41,505][INFO] [Judge] 1. Truth: 348, Answer: 78
+[2024-12-31 13:44:43,565][INFO] [Judge] [Truth]: There are 200 x 2/5 = <<200*2/5=80>>80 boys in Grade 5.
+So, 200 - 80 = <<200-80=120>>120 are girls.
+Out of the 120 girls, 120 x 2/3 = <<120*2/3=80>>80 are in the girl scout.
+Therefore, 120 - 80 = <<120-80=40>>40 girls are not in the girl scout.
+#### 40
+[2024-12-31 13:44:43,565][INFO] [Judge] [Answer]: The number of boys in the class is 200 x 2 / 5 = 80. The number of girls in the class is 200 x 3 / 5 = 120. The number of girls in the girl scout is 120 x 2 / 3 = 80. So, the number of girls not in the girl scout is 200 - 80 = 120.
+The answer: 120.
+[2024-12-31 13:44:43,565][INFO] [Judge] 1. Truth: 40, Answer: 120
+[2024-12-31 13:44:44,695][INFO] [Judge] [Truth]: James slept 9 hours * 2/3 = <<9*2/3=6>>6 hours.
+So, Harry slept 9 - 6 = <<9-6=3>>3 hours more than James.
+#### 3
+[2024-12-31 13:44:44,695][INFO] [Judge] [Answer]: The total number of hours that Harry slept is 9. The number of hours that James slept is 2 / 3 * 9 = 6. The difference in the number of hours that Harry slept is 9 - 6 = 3.
+The answer: 3.
+[2024-12-31 13:44:44,695][INFO] [Judge] 0. Truth: 3, Answer: 3
+[2024-12-31 13:44:46,436][INFO] [Judge] [Truth]: Tomatoes lose half their volume when made into sauce, so Freda started with 32 * 2 = <<32*2=64>>64 ounces of tomatoes.
+At 16 ounces per can, she used 64 / 16 = <<64/16=4>>4 cans of tomatoes.
+At 3 tomatoes a can, Freda used 3 * 4 = <<3*4=12>>12 tomatoes.
+#### 12
+[2024-12-31 13:44:46,436][INFO] [Judge] [Answer]: If Freda’s last batch of tomato sauce made 32 ounces of sauce, and each 16 ounce can of tomatoes contains three tomatoes, then Freda used 32 / 16 = 2 cups of tomatoes. Since Freda uses 2 cups of tomatoes per batch, and each cup contains 3 tomatoes, then Freda used 2 * 3 = 6 tomatoes.
+The answer: 6.
+[2024-12-31 13:44:46,436][INFO] [Judge] 1. Truth: 12, Answer: 6
+[2024-12-31 13:44:47,956][INFO] [Judge] [Truth]: The cars that exited do not need to be included so there were 30 original cars – 5 cars that exited = <<30-5=25>>25 cars that drove through the traffic jam.
+Most of the cars exited in the final 15 minutes so in the first 15 minutes, there must have been 25 total cars – 20 cars that drove through in the final 15 minutes = 5 cars that drove through the traffic jam.
+#### 5
+[2024-12-31 13:44:47,956][INFO] [Judge] [Answer]: There are 30 cars on the motorway - 5 cars took an exit so they don't have to drive through the traffic jam. This means there are 30 cars - 5 cars = 25 cars left on the motorway. In the first 15 minutes, 25 cars drive through the traffic jam.
+The answer: 25.
+[2024-12-31 13:44:47,956][INFO] [Judge] 1. Truth: 5, Answer: 25
