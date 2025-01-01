@@ -1,4 +1,4 @@
-[2024-12-31 13:59:24,401][INFO] [Judge] [Truth]: Janet sells 16 - 3 - 4 = <<16-3-4=9>>9 duck eggs a day.
+[2024-12-31 13:59:24,401][INFO] [Judge] [Ground Truth]: Janet sells 16 - 3 - 4 = <<16-3-4=9>>9 duck eggs a day.
 She makes 9 * 2 = $<<9*2=18>>18 every day at the farmer’s market.
 #### 18
 [2024-12-31 13:59:24,401][INFO] [Judge] [Answer]: 
@@ -33,7 +33,7 @@ Janet makes $18 every day at the farmers' market by selling the remaining eggs.
 
 The answer: 18.
 [2024-12-31 13:59:24,401][INFO] [Judge] 0. Truth: 18, Answer: 18
-[2024-12-31 13:59:30,092][INFO] [Judge] [Truth]: It takes 2/2=<<2/2=1>>1 bolt of white fiber
+[2024-12-31 13:59:30,092][INFO] [Judge] [Ground Truth]: It takes 2/2=<<2/2=1>>1 bolt of white fiber
 So the total amount of fabric is 2+1=<<2+1=3>>3 bolts of fabric
 #### 3
 [2024-12-31 13:59:30,092][INFO] [Judge] [Answer]: 
@@ -52,7 +52,7 @@ Total bolts required: 2 + 1 = 3 bolts
 
 The answer: 3.
 [2024-12-31 13:59:30,092][INFO] [Judge] 0. Truth: 3, Answer: 3
-[2024-12-31 13:59:41,756][INFO] [Judge] [Truth]: The cost of the house and repairs came out to 80,000+50,000=$<<80000+50000=130000>>130,000
+[2024-12-31 13:59:41,756][INFO] [Judge] [Ground Truth]: The cost of the house and repairs came out to 80,000+50,000=$<<80000+50000=130000>>130,000
 He increased the value of the house by 80,000*1.5=<<80000*1.5=120000>>120,000
 So the new value of the house is 120,000+80,000=$<<120000+80000=200000>>200,000
 So he made a profit of 200,000-130,000=$<<200000-130000=70000>>70,000
@@ -88,7 +88,7 @@ Let's calculate each step:
    Profit = -$10,000
 
 The answer: -10000.
-[2024-12-31 13:59:46,520][INFO] [Judge] [Truth]: He sprints 3*3=<<3*3=9>>9 times
+[2024-12-31 13:59:46,520][INFO] [Judge] [Ground Truth]: He sprints 3*3=<<3*3=9>>9 times
 So he runs 9*60=<<9*60=540>>540 meters
 #### 540
 [2024-12-31 13:59:46,520][INFO] [Judge] [Answer]: 
@@ -105,7 +105,7 @@ Now, let's calculate the distance he runs in one week:
 
 The answer: 540.
 [2024-12-31 13:59:46,520][INFO] [Judge] 0. Truth: 540, Answer: 540
-[2024-12-31 13:59:55,355][INFO] [Judge] [Truth]: If each chicken eats 3 cups of feed per day, then for 20 chickens they would need 3*20=<<3*20=60>>60 cups of feed per day.
+[2024-12-31 13:59:55,355][INFO] [Judge] [Ground Truth]: If each chicken eats 3 cups of feed per day, then for 20 chickens they would need 3*20=<<3*20=60>>60 cups of feed per day.
 If she feeds the flock 15 cups of feed in the morning, and 25 cups in the afternoon, then the final meal would require 60-15-25=<<60-15-25=20>>20 cups of chicken feed.
 #### 20
 [2024-12-31 13:59:55,355][INFO] [Judge] [Answer]: 
@@ -123,7 +123,7 @@ Here's the breakdown:
 
 The answer: 20.
 [2024-12-31 13:59:55,355][INFO] [Judge] 0. Truth: 20, Answer: 20
-[2024-12-31 14:00:12,807][INFO] [Judge] [Truth]: The discount price of one glass is 60/100 * 5 = $<<60/100*5=3>>3.
+[2024-12-31 14:00:12,807][INFO] [Judge] [Ground Truth]: The discount price of one glass is 60/100 * 5 = $<<60/100*5=3>>3.
 If every second glass is cheaper, that means Kylar is going to buy 16 / 2 = <<16/2=8>>8 cheaper glasses.
 So for the cheaper glasses, Kylar is going to pay 8 * 3 = $<<8*3=24>>24.
 And for the regular-priced glasses, Kylar will pay 8 * 5 = $<<8*5=40>>40.
@@ -168,7 +168,7 @@ Total cost = $64
 
 The answer: 64.
 [2024-12-31 14:00:12,807][INFO] [Judge] 0. Truth: 64, Answer: 64
-[2024-12-31 14:00:20,462][INFO] [Judge] [Truth]: If Seattle has 20 sheep, Charleston has 4 * 20 sheep = <<20*4=80>>80 sheep
+[2024-12-31 14:00:20,462][INFO] [Judge] [Ground Truth]: If Seattle has 20 sheep, Charleston has 4 * 20 sheep = <<20*4=80>>80 sheep
 Toulouse has twice as many sheep as Charleston, which is 2 * 80 sheep = <<2*80=160>>160 sheep
 Together, the three has 20 sheep + 160 sheep + 80 sheep = <<20+160+80=260>>260 sheep
 #### 260
@@ -195,7 +195,7 @@ Total sheep = 20 + 80 + 160 = 360 sheep
 
 The answer: 360.
 [2024-12-31 14:00:20,462][INFO] [Judge] 1. Truth: 260, Answer: 360
-[2024-12-31 14:00:29,389][INFO] [Judge] [Truth]: First find how many gigabytes are in 40% of the file: 200 GB * 40% = <<200*40*.01=80>>80 GB
+[2024-12-31 14:00:29,389][INFO] [Judge] [Ground Truth]: First find how many gigabytes are in 40% of the file: 200 GB * 40% = <<200*40*.01=80>>80 GB
 Then divide that number by the download rate to find the time until Windows restarts: 80 GB / 2 GB/minute = <<80/2=40>>40 minutes
 Then find the time to download the whole file after the restart: 200 GB / 2 GB/minute = <<200/2=100>>100 minutes
 Then add the time to download 40% of the file, to download the whole file, and to wait for Windows to update: 40 minutes + 100 minutes + 20 minutes = <<40+100+20=160>>160 minutes
@@ -221,7 +221,7 @@ To solve this problem, we need to calculate the time it takes for Carla to downl
 
 The answer: 120.
 [2024-12-31 14:00:29,389][INFO] [Judge] 1. Truth: 160, Answer: 120
-[2024-12-31 14:00:45,397][INFO] [Judge] [Truth]: When he turned around he was 3*60=<<3*60=180>>180 miles from home
+[2024-12-31 14:00:45,397][INFO] [Judge] [Ground Truth]: When he turned around he was 3*60=<<3*60=180>>180 miles from home
 He was only able to drive 4-2=<<4-2=2>>2 hours in the first four hours
 In half an hour he goes 30*.5=<<30*.5=15>>15 miles
 He then drives another 2-.5=<<2-.5=1.5>>1.5 hours
@@ -258,7 +258,7 @@ To solve this problem, we need to calculate the distance John travels in each se
 
 The answer: 7.5.
 [2024-12-31 14:00:45,398][INFO] [Judge] 1. Truth: 45, Answer: 7.5
-[2024-12-31 14:00:54,624][INFO] [Judge] [Truth]: Eliza is entitled to 45 -40 = <<45-40=5>>5 hours overtime pay.
+[2024-12-31 14:00:54,624][INFO] [Judge] [Ground Truth]: Eliza is entitled to 45 -40 = <<45-40=5>>5 hours overtime pay.
 Her hourly rate for the overtime pay is $10 x 1.2 = $<<10*1.2=12>>12.
 So, Eliza will receive $12 x 5 =$<<12*5=60>>60 for overtime pay.
 Her regular weekly earning is $10 x 40 = $<<10*40=400>>400.
@@ -290,7 +290,7 @@ Total earnings = $460
 
 The answer: 460.
 [2024-12-31 14:00:54,624][INFO] [Judge] 0. Truth: 460, Answer: 460
-[2024-12-31 14:01:01,475][INFO] [Judge] [Truth]: The number of downloads of the program in the second month increased to 3*60 = <<3*60=180>>180
+[2024-12-31 14:01:01,475][INFO] [Judge] [Ground Truth]: The number of downloads of the program in the second month increased to 3*60 = <<3*60=180>>180
 In the first two months, the total number of downloads of the program was 180+60 = <<180+60=240>>240
 In the third month, the number of downloads of the program reduced by 30/100*180 = <<30/100*180=54>>54
 There were 180-54 = <<180-54=126>>126 downloads in the third month.
@@ -311,7 +311,7 @@ Total downloads = 456
 
 The answer: 456.
 [2024-12-31 14:01:01,475][INFO] [Judge] 1. Truth: 366, Answer: 456
-[2024-12-31 14:01:11,525][INFO] [Judge] [Truth]: The total charge for the doughnuts was 3 x $68 = $<<3*68=204>>204.
+[2024-12-31 14:01:11,525][INFO] [Judge] [Ground Truth]: The total charge for the doughnuts was 3 x $68 = $<<3*68=204>>204.
 The total charge for the mini cupcakes was 2 x $80 = $<<2*80=160>>160.
 The total charge for the mini cheesecakes was 6 x $55 = $<<6*55=330>>330.
 Therefore the total amount Toula paid for the pastries was $204 + $160 + $330 = $<<204+160+330=694>>694.
@@ -342,7 +342,7 @@ Total cost = $204 + $160 + $330 = $714
 
 The answer: 714.
 [2024-12-31 14:01:11,525][INFO] [Judge] 1. Truth: 694, Answer: 714
-[2024-12-31 14:01:24,325][INFO] [Judge] [Truth]: He makes $10.5 selling lemons each year because 7 x 1.5 = <<7*1.5=10.5>>10.5
+[2024-12-31 14:01:24,325][INFO] [Judge] [Ground Truth]: He makes $10.5 selling lemons each year because 7 x 1.5 = <<7*1.5=10.5>>10.5
 He earns $7.5 each year from the lemon tree because 10.5 - 3 = <<10.5-3=7.5>>7.5
 It will take 12 years to earn enough to pay off the tree because 90 / 7.5 = <<90/7.5=12>>12
 He will make money in year 13 because 12 + 1 = <<12+1=13>>13
@@ -385,7 +385,7 @@ Years to start earning = 12 years
 
 The answer: 12.
 [2024-12-31 14:01:24,325][INFO] [Judge] 1. Truth: 13, Answer: 12
-[2024-12-31 14:01:53,072][INFO] [Judge] [Truth]: First multiply the five remaining vacuum cleaners by two to find out how many Melanie had before she visited the orange house: 5 * 2 = <<5*2=10>>10
+[2024-12-31 14:01:53,072][INFO] [Judge] [Ground Truth]: First multiply the five remaining vacuum cleaners by two to find out how many Melanie had before she visited the orange house: 5 * 2 = <<5*2=10>>10
 Then add two to figure out how many vacuum cleaners she had before visiting the red house: 10 + 2 = <<10+2=12>>12
 Now we know that 2/3 * x = 12, where x is the number of vacuum cleaners Melanie started with. We can find x by dividing each side of the equation by 2/3, which produces x = 18
 #### 18
@@ -464,7 +464,7 @@ So, Melanie started with 12 vacuum cleaners.
 
 The answer: 12.
 [2024-12-31 14:01:53,072][INFO] [Judge] 1. Truth: 18, Answer: 12
-[2024-12-31 14:02:02,596][INFO] [Judge] [Truth]: There are 20 x 20/100 = <<20*20/100=4>>4 students who enrolled in contemporary dance.
+[2024-12-31 14:02:02,596][INFO] [Judge] [Ground Truth]: There are 20 x 20/100 = <<20*20/100=4>>4 students who enrolled in contemporary dance.
 So, 20 - 4 = <<20-4=16>>16 students are enrolled in either jazz or hip-hop dance.
 There are 16 x 25/100 = <<16*25/100=4>>4 students who enrolled in jazz dance.
 Hence, 16 - 4 = <<16-4=12>>12 students enrolled in hip-hop dance.
@@ -493,7 +493,7 @@ To solve this problem, we need to calculate the percentage of students enrolled 
 
 The answer: 60.
 [2024-12-31 14:02:02,596][INFO] [Judge] 0. Truth: 60, Answer: 60
-[2024-12-31 14:02:12,361][INFO] [Judge] [Truth]: If he purchases jewelry, he will make a profit of 2.5% which is $5000*(2.5/100) = $<<5000*(2.5/100)=125>>125
+[2024-12-31 14:02:12,361][INFO] [Judge] [Ground Truth]: If he purchases jewelry, he will make a profit of 2.5% which is $5000*(2.5/100) = $<<5000*(2.5/100)=125>>125
 If he purchases electronic gadgets, he will make a profit of 1.2% which is $8000*(1.2/100) = $<<8000*(1.2/100)=96>>96
 If he wants to maximize profit, since $125 > $96, he will choose to purchase jewelry, thereby making a profit of $<<125=125>>125
 #### 125
@@ -523,7 +523,7 @@ The merchant would maximize profit by choosing the jewelry worth $5,000.
 
 The answer: 12.50.
 [2024-12-31 14:02:12,361][INFO] [Judge] 1. Truth: 125, Answer: 12.5
-[2024-12-31 14:02:20,656][INFO] [Judge] [Truth]: On the first day, the trains covered 2 trains * 80 miles/train = <<2*80=160>>160 miles together.
+[2024-12-31 14:02:20,656][INFO] [Judge] [Ground Truth]: On the first day, the trains covered 2 trains * 80 miles/train = <<2*80=160>>160 miles together.
 They also covered 150 miles/train * 2 trains = <<150*2=300>>300 miles together on the second day.
 The combined distance the two trains covered in the two days is 300 miles + 160 miles = <<300+160=460>>460 miles
 The average distance for the two days is 460 miles / 2 trains = <<460/2=230>>230 miles/train
@@ -545,7 +545,7 @@ Now, we add the distances covered on each day to find the total distance covered
 
 The answer: 460.
 [2024-12-31 14:02:20,656][INFO] [Judge] 1. Truth: 230, Answer: 460
-[2024-12-31 14:02:32,876][INFO] [Judge] [Truth]: First find the total amount Jill makes per week teaching: $20/hour * 35 hours/week = $<<20*35=700>>700/week
+[2024-12-31 14:02:32,876][INFO] [Judge] [Ground Truth]: First find the total amount Jill makes per week teaching: $20/hour * 35 hours/week = $<<20*35=700>>700/week
 Then find the total amount Jill makes per week coaching: $30/hour * 15 hours/week = $<<30*15=450>>450/week
 Then add those two amounts to find the total amount Jill makes per week: $700/week + $450/week = $<<700+450=1150>>1150/week
 Then multiply that number by the number of weeks Jill works in a year to find her annual salary: $1150/week * 50 weeks/year = $<<1150*50=57500>>57,500
@@ -576,7 +576,7 @@ Total annual salary:
 
 The answer: 575,000.
 [2024-12-31 14:02:32,877][INFO] [Judge] 1. Truth: 57500, Answer: 575000
-[2024-12-31 14:02:44,464][INFO] [Judge] [Truth]: She eats 3 eggs every day and there are 7 days in a week so she eats 3*7 = <<3*7=21>>21 eggs a week
+[2024-12-31 14:02:44,464][INFO] [Judge] [Ground Truth]: She eats 3 eggs every day and there are 7 days in a week so she eats 3*7 = <<3*7=21>>21 eggs a week
 After 4 weeks she will have eaten 4*21 = <<4*21=84>>84 eggs
 There are 12 eggs in 1 dozen and she'll eat 84 eggs so that's 84/12 = <<84/12=7>>7 dozen eggs
 #### 7
@@ -603,7 +603,7 @@ Step 5: To convert the total number of eggs into dozens, we divide the total num
 
 The answer: 7.
 [2024-12-31 14:02:44,464][INFO] [Judge] 0. Truth: 7, Answer: 7
-[2024-12-31 14:03:00,331][INFO] [Judge] [Truth]: First figure out how many hours it takes to hike a 12-mile trail at 4 mph by dividing the distance by the speed: 12 miles / 4 mph = <<12/4=3>>3 hours
+[2024-12-31 14:03:00,331][INFO] [Judge] [Ground Truth]: First figure out how many hours it takes to hike a 12-mile trail at 4 mph by dividing the distance by the speed: 12 miles / 4 mph = <<12/4=3>>3 hours
 Next subtract the time Marissa already spent walking to find out how much time she has left: 3 hours - 1 hour - 1 hour = <<3-1-1=1>>1 hour
 Now figure out how much distance she has left by subtracting the distance she already traveled from the total distance: 12 miles - 4 miles - 2 miles = <<12-4-2=6>>6 miles
 Now divide the remaining distance by the remaining time to find out how fast in miles per hour Marissa has to travel: 6 miles / 1 hour = <<6/1=6>>6 mph
@@ -642,7 +642,7 @@ Therefore, Marissa needs to walk at a speed of 6 miles per hour to maintain her 
 
 The answer: 6.
 [2024-12-31 14:03:00,331][INFO] [Judge] 0. Truth: 6, Answer: 6
-[2024-12-31 14:03:10,297][INFO] [Judge] [Truth]: There are 15 x 3/5 = <<15*3/5=9>>9 liters of water from the 15 liters pineapple drink.
+[2024-12-31 14:03:10,297][INFO] [Judge] [Ground Truth]: There are 15 x 3/5 = <<15*3/5=9>>9 liters of water from the 15 liters pineapple drink.
 After 1 liter of orange drink was spilled, there were 10 - 1 = <<10-1=9>>9 liters of orange drink left.
 Out of the 9 liters, 9 x 2/3 = <<9*2/3=6>>6 liters are water.
 Thus, there are a total of 9 + 6 = <<9+6=15>>15 liters of water out of the 24 liters.
@@ -672,7 +672,7 @@ Total water content = 5.67 liters + 9 liters = 14.67 liters
 
 The answer: 14.67.
 [2024-12-31 14:03:10,297][INFO] [Judge] 1. Truth: 15, Answer: 14.67
-[2024-12-31 14:03:15,525][INFO] [Judge] [Truth]: When Raymond's son was born Samantha was 23 - 6 = <<23-6=17>>17 years old.
+[2024-12-31 14:03:15,525][INFO] [Judge] [Ground Truth]: When Raymond's son was born Samantha was 23 - 6 = <<23-6=17>>17 years old.
 Thus it has been 31 - 17 = <<31-17=14>>14 years since Raymond's son was born.
 #### 14
 [2024-12-31 14:03:15,525][INFO] [Judge] [Answer]: 
@@ -684,7 +684,7 @@ To solve this problem, we need to determine the birth years of Raymond, Samantha
 
 The answer: 14.
 [2024-12-31 14:03:15,526][INFO] [Judge] 0. Truth: 14, Answer: 14
-[2024-12-31 14:03:22,116][INFO] [Judge] [Truth]: His first 3 customers buy 3 * 1 = <<3*1=3>>3 DVDs.
+[2024-12-31 14:03:22,116][INFO] [Judge] [Ground Truth]: His first 3 customers buy 3 * 1 = <<3*1=3>>3 DVDs.
 His next 2 buy 2 * 2 = <<2*2=4>>4 DVDs.
 He sells a total of 3 + 4 + 0 = <<3+4+0=7>>7 DVDs.
 #### 7
@@ -706,7 +706,7 @@ Now, let's add up all the DVDs sold:
 
 The answer: 7.
 [2024-12-31 14:03:22,116][INFO] [Judge] 0. Truth: 7, Answer: 7
-[2024-12-31 14:03:27,386][INFO] [Judge] [Truth]: The candle burns for 5 - 1 = <<5-1=4>>4 hours.
+[2024-12-31 14:03:27,386][INFO] [Judge] [Ground Truth]: The candle burns for 5 - 1 = <<5-1=4>>4 hours.
 Thus, the candle will be 2 * 4 = <<2*4=8>>8 centimeters shorter.
 #### 8
 [2024-12-31 14:03:27,386][INFO] [Judge] [Answer]: 
@@ -722,7 +722,7 @@ To solve this problem, we need to calculate the total time the candle burns and 
 
 The answer: 8.
 [2024-12-31 14:03:27,386][INFO] [Judge] 0. Truth: 8, Answer: 8
-[2024-12-31 14:06:23,804][INFO] [Judge] [Truth]: Let X be the original price of the book. The discounted price is X - X*25% = $19.50.
+[2024-12-31 14:06:23,804][INFO] [Judge] [Ground Truth]: Let X be the original price of the book. The discounted price is X - X*25% = $19.50.
 Combining like terms, we get .75X = $19.50
 Dividing both sides by .75, we get X = $26.
 #### 26
@@ -1230,7 +1230,7 @@ Now, we solve for \( P \):
 \( P = \frac{19.50}{0.75}} \)
 
 
-[2024-12-31 14:06:35,927][INFO] [Judge] [Truth]: Five packs of milk cost $3 x 5 = $<<3*5=15>>15.
+[2024-12-31 14:06:35,927][INFO] [Judge] [Ground Truth]: Five packs of milk cost $3 x 5 = $<<3*5=15>>15.
 Four apples cost $1.50 x 4 = $<<1.5*4=6>>6.
 The total cost of the chicken meal, milk, and apples is $12 + $15 + $6 = $<<12+15+6=33>>33.
 Thus, the boxes of pizza cost $50 - $33 = $<<50-33=17>>17.
@@ -1263,7 +1263,7 @@ Therefore, Marie ordered 2 boxes of pizza.
 
 The answer: 2.
 [2024-12-31 14:06:35,927][INFO] [Judge] 0. Truth: 2, Answer: 2
-[2024-12-31 14:06:49,028][INFO] [Judge] [Truth]: 3 * (16.50 + 22.50 + 42) = $<<3*(16.50+22.50+42)=243>>243
+[2024-12-31 14:06:49,028][INFO] [Judge] [Ground Truth]: 3 * (16.50 + 22.50 + 42) = $<<3*(16.50+22.50+42)=243>>243
 Mishka spent $243 on clothing.
 #### 243
 [2024-12-31 14:06:49,028][INFO] [Judge] [Answer]: 
@@ -1292,7 +1292,7 @@ Total cost for all clothing items = $49.50 + $67.50 + $126 = $343
 
 The answer: 343.
 [2024-12-31 14:06:49,028][INFO] [Judge] 1. Truth: 243, Answer: 343
-[2024-12-31 14:06:55,047][INFO] [Judge] [Truth]: Each container of ice cream has 15 servings and she eats 1 serving a night so after 60 days she will need 60/15 = 4 containers of ice cream
+[2024-12-31 14:06:55,047][INFO] [Judge] [Ground Truth]: Each container of ice cream has 15 servings and she eats 1 serving a night so after 60 days she will need 60/15 = 4 containers of ice cream
 If each carton costs $4.00 and she needs 4 containers then it will cost her 4*4 = $<<4*4=16.00>>16.00
 #### 16
 [2024-12-31 14:06:55,047][INFO] [Judge] [Answer]: 
@@ -1309,7 +1309,7 @@ To solve this problem, we need to calculate the number of cartons Cynthia buys i
 
 The answer: 16.
 [2024-12-31 14:06:55,047][INFO] [Judge] 0. Truth: 16, Answer: 16
-[2024-12-31 14:07:03,764][INFO] [Judge] [Truth]: He traveled 20 miles + 15 miles = <<20+15=35>>35 miles not counting the distance between stops.
+[2024-12-31 14:07:03,764][INFO] [Judge] [Ground Truth]: He traveled 20 miles + 15 miles = <<20+15=35>>35 miles not counting the distance between stops.
 Henry traveled 60 miles - 35 miles = <<60-35=25>>25 miles between his first and second stop.
 #### 25
 [2024-12-31 14:07:03,764][INFO] [Judge] [Answer]: 
@@ -1329,7 +1329,7 @@ Now, subtract the 15 miles before the end of the trip:
 
 The answer: 5.
 [2024-12-31 14:07:03,764][INFO] [Judge] 1. Truth: 25, Answer: 5
-[2024-12-31 14:07:08,819][INFO] [Judge] [Truth]: The second pair of heels costs 33 * 2 = $<<33*2=66>>66.
+[2024-12-31 14:07:08,819][INFO] [Judge] [Ground Truth]: The second pair of heels costs 33 * 2 = $<<33*2=66>>66.
 The heels together cost 66 + 33 = $<<66+33=99>>99.
 The boots cost $5 more than both pairs of heels together, so the boots cost 99 + 5 = $104.
 #### 104
@@ -1346,7 +1346,7 @@ Let's break down the problem step by step:
 
 The answer: 104.
 [2024-12-31 14:07:08,819][INFO] [Judge] 0. Truth: 104, Answer: 104
-[2024-12-31 14:07:18,633][INFO] [Judge] [Truth]: The total ratio representing their ages is 7+11= <<7+11=18>>18
+[2024-12-31 14:07:18,633][INFO] [Judge] [Ground Truth]: The total ratio representing their ages is 7+11= <<7+11=18>>18
 Since the fraction of the ratio that represents Allen's age is 11/18, Allen's current age is 11/18*162 = <<11/18*162=99>>99
 If Allen is currently 99 years old, in 10 years he will be 99+10 = <<99+10=109>>109 years old
 #### 109
@@ -1368,7 +1368,7 @@ Step 4: To calculate Allen's age 10 years from now, we simply add 10 years to Al
 
 The answer: 109.
 [2024-12-31 14:07:18,633][INFO] [Judge] 0. Truth: 109, Answer: 109
-[2024-12-31 14:07:39,223][INFO] [Judge] [Truth]: The second person guessed 60 because 20 + (80/2)= <<20+(80/2)=60>>60
+[2024-12-31 14:07:39,223][INFO] [Judge] [Ground Truth]: The second person guessed 60 because 20 + (80/2)= <<20+(80/2)=60>>60
 The second guessed 100 because 80 x 1.25 = <<80*1.25=100>>100
 The total amount guessed is 240 because 80 + 60 + 100 = <<80+60+100=240>>240
 The average amount guessed is 80 because 240 / 3 = <<240/3=80>>80
@@ -1431,7 +1431,7 @@ Average guess \( = 80 \)
 
 The answer: 80.
 [2024-12-31 14:07:39,224][INFO] [Judge] 0. Truth: 80, Answer: 80
-[2024-12-31 14:07:46,516][INFO] [Judge] [Truth]: He spends 10*.5=<<10*.5=5>>5 hours per day
+[2024-12-31 14:07:46,516][INFO] [Judge] [Ground Truth]: He spends 10*.5=<<10*.5=5>>5 hours per day
 That means he spends 5*7=<<5*7=35>>35 hours per week
 #### 35
 [2024-12-31 14:07:46,516][INFO] [Judge] [Answer]: 
@@ -1448,7 +1448,7 @@ To calculate the total hours John spends taking care of dogs each week, we can f
 
 The answer: 35.
 [2024-12-31 14:07:46,516][INFO] [Judge] 0. Truth: 35, Answer: 35
-[2024-12-31 14:07:55,960][INFO] [Judge] [Truth]: Let x be the number of silver coins Gretchen has
+[2024-12-31 14:07:55,960][INFO] [Judge] [Ground Truth]: Let x be the number of silver coins Gretchen has
 Gretchen has x+30 gold coins.
 x+x+30=110
 2*x=80
@@ -1487,7 +1487,7 @@ So, Gretchen has 70 gold coins.
 
 The answer: 70.
 [2024-12-31 14:07:55,960][INFO] [Judge] 0. Truth: 70, Answer: 70
-[2024-12-31 14:08:02,829][INFO] [Judge] [Truth]: Half of Raymond's jewels is 40/2 = <<40/2=20>>20
+[2024-12-31 14:08:02,829][INFO] [Judge] [Ground Truth]: Half of Raymond's jewels is 40/2 = <<40/2=20>>20
 Since Aaron has 5 more jewels than half of Raymond's jewels, he has 20+5 = <<5+20=25>>25 jewels.
 If Siobhan has 2 fewer jewels than Aaron, he has 25-2 = 23 jewels.
 #### 23
@@ -1513,7 +1513,7 @@ Siobhan has 2 fewer jewels than Aaron, so:
 
 The answer: 23.
 [2024-12-31 14:08:02,829][INFO] [Judge] 0. Truth: 23, Answer: 23
-[2024-12-31 14:08:12,224][INFO] [Judge] [Truth]: He scored 4*.25=<<4*.25=1>>1 point more in the second 20 minutes
+[2024-12-31 14:08:12,224][INFO] [Judge] [Ground Truth]: He scored 4*.25=<<4*.25=1>>1 point more in the second 20 minutes
 So he scored 4+1=<<4+1=5>>5 points in the second 20 minutes
 So in total, he scored 4+5=<<4+5=9>>9 points in the 40 minutes
 #### 9
@@ -1541,7 +1541,7 @@ Total points scored: 4 points + 5 points = 9 points
 
 The answer: 9.
 [2024-12-31 14:08:12,224][INFO] [Judge] 0. Truth: 9, Answer: 9
-[2024-12-31 14:08:21,444][INFO] [Judge] [Truth]: He eats 2 yogurts a day so over 30 days he will need 2*30 = <<2*30=60>>60 yogurts
+[2024-12-31 14:08:21,444][INFO] [Judge] [Ground Truth]: He eats 2 yogurts a day so over 30 days he will need 2*30 = <<2*30=60>>60 yogurts
 The yogurt is sold as 4 units for $5.00 and he needs 60 yogurts so that’s 60/4 = <<60/4=15>>15 4-packs
 Each 4-pack is $5.00 and he needs 15 4-packs so he will spend $5*15 = $<<5*15=75.00>>75.00 on yogurt
 #### 75
@@ -1564,7 +1564,7 @@ To solve this problem, we need to calculate the number of yogurts Terry eats in 
 
 The answer: 75.
 [2024-12-31 14:08:21,444][INFO] [Judge] 0. Truth: 75, Answer: 75
-[2024-12-31 14:08:30,671][INFO] [Judge] [Truth]: He spent $160 on video games because 8 x 20 = <<8*20=160>>160
+[2024-12-31 14:08:30,671][INFO] [Judge] [Ground Truth]: He spent $160 on video games because 8 x 20 = <<8*20=160>>160
 He earned $165 from his sale because 160 + 5 = <<160+5=165>>165
 He sold 11 lego sets because 11 x 15 = <<11*15=165>>165
 He has 2 sets left because 13 - 11 = <<13-11=2>>2
@@ -1596,7 +1596,7 @@ Since John sold all his Lego sets to buy video games, he does not have any Lego 
 
 The answer: 0.
 [2024-12-31 14:08:30,671][INFO] [Judge] 1. Truth: 2, Answer: 0
-[2024-12-31 14:08:39,110][INFO] [Judge] [Truth]: He has 7-1=<<7-1=6>>6 possible running days.
+[2024-12-31 14:08:39,110][INFO] [Judge] [Ground Truth]: He has 7-1=<<7-1=6>>6 possible running days.
 He runs half of those so he runs 6/2=<<6/2=3>>3 days.
 So for two days, he runs 3/2=<<3/2=1.5>>1.5 hours.
 So in total, he runs 3+1.5+1.5=<<3+1.5+1.5=6>>6 hours.
@@ -1624,7 +1624,7 @@ Speed = 60 miles / 10.5 hours ≈ 5.71428571 miles per hour
 
 The answer: 5.71428571.
 [2024-12-31 14:08:39,111][INFO] [Judge] 1. Truth: 10, Answer: 5.71428571
-[2024-12-31 14:08:51,990][INFO] [Judge] [Truth]: If Dana can skip at half the speed she can run, then she can run at 3*2=<<3*2=6>>6 miles per hour.
+[2024-12-31 14:08:51,990][INFO] [Judge] [Ground Truth]: If Dana can skip at half the speed she can run, then she can run at 3*2=<<3*2=6>>6 miles per hour.
 And since she can run at a speed that is 4 times faster than she can walk, this means she can walk at 6/4=1.5 miles per hour.
 If two-thirds of the time is spent walking, then she walks for 6*(2/3)=<<6*(2/3)=4>>4 hours.
 If one-third of the time is spent running, then she runs for 6-4=<<6-4=2>>2 hours.
@@ -1663,7 +1663,7 @@ Total distance = 21 miles
 
 The answer: 21.
 [2024-12-31 14:08:51,991][INFO] [Judge] 1. Truth: 18, Answer: 21
-[2024-12-31 14:08:58,445][INFO] [Judge] [Truth]: Ben’s iPhone is 1*2 = <<1*2=2>>2 years old.
+[2024-12-31 14:08:58,445][INFO] [Judge] [Ground Truth]: Ben’s iPhone is 1*2 = <<1*2=2>>2 years old.
 Brandon’s iPhone is 4*2 = <<4*2=8>>8 years old.
 #### 8
 [2024-12-31 14:08:58,446][INFO] [Judge] [Answer]: 
@@ -1685,7 +1685,7 @@ Now let's calculate the ages step by step:
 
 The answer: 8.
 [2024-12-31 14:08:58,446][INFO] [Judge] 0. Truth: 8, Answer: 8
-[2024-12-31 14:09:07,287][INFO] [Judge] [Truth]: With the gemstone, Polly could throw the javelin 3 times farther than 400 feet, for a distance of 3*400=<<3*400=1200>>1200 feet.
+[2024-12-31 14:09:07,287][INFO] [Judge] [Ground Truth]: With the gemstone, Polly could throw the javelin 3 times farther than 400 feet, for a distance of 3*400=<<3*400=1200>>1200 feet.
 1200 feet is beyond the 1000-foot reach of the dragon's flames by a distance of 1200-1000=<<1200-1000=200>>200 feet.
 #### 200
 [2024-12-31 14:09:07,287][INFO] [Judge] [Answer]: 
@@ -1705,7 +1705,7 @@ The dragon's reach is 1000 feet. Since Polly can throw the javelin 1200 feet wit
 
 The answer: 200.
 [2024-12-31 14:09:07,288][INFO] [Judge] 0. Truth: 200, Answer: 200
-[2024-12-31 14:09:14,861][INFO] [Judge] [Truth]: To start the evening, there were 5 pies, each with 8 pieces, which is 5*8=<<5*8=40>>40 pieces of pie.
+[2024-12-31 14:09:14,861][INFO] [Judge] [Ground Truth]: To start the evening, there were 5 pies, each with 8 pieces, which is 5*8=<<5*8=40>>40 pieces of pie.
 If only 14 remained, then 40-14=<<40-14=26>>26 pieces of pie had been taken by guests.
 #### 26
 [2024-12-31 14:09:14,861][INFO] [Judge] [Answer]: 
@@ -1725,7 +1725,7 @@ To solve this problem, we need to calculate the total number of pie pieces that 
 
 The answer: 26.
 [2024-12-31 14:09:14,861][INFO] [Judge] 0. Truth: 26, Answer: 26
-[2024-12-31 14:09:30,951][INFO] [Judge] [Truth]: If the total calorie target is 2000 and I have consumed 1800 calories then I have 2000-1800 = <<2000-1800=200>>200 calories left to eat
+[2024-12-31 14:09:30,951][INFO] [Judge] [Ground Truth]: If the total calorie target is 2000 and I have consumed 1800 calories then I have 2000-1800 = <<2000-1800=200>>200 calories left to eat
 If each serving of chips has 250 calories and I only have 200 calories left to eat, then I can only eat 200/250 of a serving = 4/5 of a serving
 We also know that a 300g bag of chips has 5 servings, hence each serving has 300g/5 = <<300/5=60>>60 grams
 If I can only eat 4/5 of a serving, then I can eat only 60g * 4/5 = 240g/5 = 48 grams
@@ -1764,7 +1764,7 @@ Therefore, you can eat 60 grams of chips (since 60 grams is 1/5th of the 300g ba
 
 The answer: 60.
 [2024-12-31 14:09:30,952][INFO] [Judge] 1. Truth: 48, Answer: 60
-[2024-12-31 14:09:41,240][INFO] [Judge] [Truth]: 1 pound of beeswax and the wick make 10 candles and he wants to make 20 candles so he needs 20/10 = <<20/10=2>>2 pounds of beeswax
+[2024-12-31 14:09:41,240][INFO] [Judge] [Ground Truth]: 1 pound of beeswax and the wick make 10 candles and he wants to make 20 candles so he needs 20/10 = <<20/10=2>>2 pounds of beeswax
 1 pound of beeswax costs $10.00 and he needs 2 pounds so his supplies will cost 10*2 = $<<10*2=20.00>>20.00
 He wants to sell each candle for $2.00 each and he's selling 20 candles so that's 2*20 = $<<2*20=40.00>>40.00
 If he makes $40.00 selling candles and his supplies cost $20.00 then his net profit is 40-20 = $<<40-20=20.00>>20.00
@@ -1795,7 +1795,7 @@ Let's calculate each step:
 
 The answer: 20.
 [2024-12-31 14:09:41,240][INFO] [Judge] 0. Truth: 20, Answer: 20
-[2024-12-31 14:09:51,629][INFO] [Judge] [Truth]: If she wrote five articles on Monday, then on Tuesday she wrote 2/5* 5 = 2 more articles.
+[2024-12-31 14:09:51,629][INFO] [Judge] [Ground Truth]: If she wrote five articles on Monday, then on Tuesday she wrote 2/5* 5 = 2 more articles.
 The total number of articles she wrote on Tuesday is 5+2 = <<5+2=7>>7
 On Wednesday, the number of articles was twice the number she wrote on Tuesday, so it was 2*7 = <<2*7=14>>14 articles.
 Over the three days, she wrote 5+7 +14 = <<5+7+14=26>>26 articles.
@@ -1834,7 +1834,7 @@ Now, let's add up the total hours:
 
 The answer: 154.
 [2024-12-31 14:09:51,629][INFO] [Judge] 1. Truth: 104, Answer: 154
-[2024-12-31 14:10:01,999][INFO] [Judge] [Truth]: Let's let x be the number of post-it notes in the package that Candice purchased.
+[2024-12-31 14:10:01,999][INFO] [Judge] [Ground Truth]: Let's let x be the number of post-it notes in the package that Candice purchased.
 Then, the total number of post-it notes she had when she left the store was 80+x.
 And if she used 220 Post-it notes at work and had 23 left, then 80+x=220+23
 Subtracting 80 from each side of the equation, we see that x=220+23-80=<<220+23-80=163>>163 Post-it notes.
@@ -1864,7 +1864,7 @@ Therefore, the package that Candice purchased contained 163 Post-it notes.
 
 The answer: 163.
 [2024-12-31 14:10:01,999][INFO] [Judge] 0. Truth: 163, Answer: 163
-[2024-12-31 14:10:17,146][INFO] [Judge] [Truth]: He bought 200 / 40 = <<200/40=5>>5 blue ties
+[2024-12-31 14:10:17,146][INFO] [Judge] [Ground Truth]: He bought 200 / 40 = <<200/40=5>>5 blue ties
 So he bought 5 * 2 = <<5*2=10>>10 red ties
 Each red tie cost $40 * .5 = $<<40*.5=20>>20 more than blue ties
 So they each cost $40 + $20 = $<<40+20=60>>60
@@ -1905,7 +1905,7 @@ Total spent on ties = $800
 
 The answer: 800.
 [2024-12-31 14:10:17,146][INFO] [Judge] 0. Truth: 800, Answer: 800
-[2024-12-31 14:10:21,659][INFO] [Judge] [Truth]: If Tracy used a piece of wire 4 feet long, since 1 foot is equal to 12 inches, the total length of the wire in inches was 12*4=<<12*4=48>>48 inches.
+[2024-12-31 14:10:21,659][INFO] [Judge] [Ground Truth]: If Tracy used a piece of wire 4 feet long, since 1 foot is equal to 12 inches, the total length of the wire in inches was 12*4=<<12*4=48>>48 inches.
 Since the wire was cut into pieces 6 inches long, Tracy obtained 48/6=<<48/6=8>>8 pieces
 #### 8
 [2024-12-31 14:10:21,660][INFO] [Judge] [Answer]: 
@@ -1919,7 +1919,7 @@ Step 2: Divide the total length of the wire by the length of each piece.
 
 The answer: 8.
 [2024-12-31 14:10:21,660][INFO] [Judge] 0. Truth: 8, Answer: 8
-[2024-12-31 14:10:31,795][INFO] [Judge] [Truth]: The total number of units in the building will be 8 units/floor * 15 floors = <<8*15=120>>120 units.
+[2024-12-31 14:10:31,795][INFO] [Judge] [Ground Truth]: The total number of units in the building will be 8 units/floor * 15 floors = <<8*15=120>>120 units.
 If 3/4 of the building is occupied, then the total number of occupied units is 3/4 * 120 units = <<3/4*120=90>>90 units.
 The total number of unoccupied units is 120 units - 90 units = <<120-90=30>>30 units.
 #### 30
@@ -1950,7 +1950,7 @@ Number of unoccupied units = 30 units
 
 The answer: 30.
 [2024-12-31 14:10:31,795][INFO] [Judge] 0. Truth: 30, Answer: 30
-[2024-12-31 14:10:38,165][INFO] [Judge] [Truth]: In a week, Lloyd's egg farm produces 252 x 7 = <<252*7=1764>>1764 eggs.
+[2024-12-31 14:10:38,165][INFO] [Judge] [Ground Truth]: In a week, Lloyd's egg farm produces 252 x 7 = <<252*7=1764>>1764 eggs.
 There are 1764/12 = <<1764/12=147>>147 dozens of eggs produced in a week.
 So, Lloyd makes 147 x $2 = $<<147*2=294>>294 on eggs.
 #### 294
@@ -1972,7 +1972,7 @@ $42 per day * 7 days per week = $294 per week
 
 The answer: 294.
 [2024-12-31 14:10:38,165][INFO] [Judge] 0. Truth: 294, Answer: 294
-[2024-12-31 14:10:44,708][INFO] [Judge] [Truth]: He was travelling at full speed for 4-1=<<4-1=3>>3 hours
+[2024-12-31 14:10:44,708][INFO] [Judge] [Ground Truth]: He was travelling at full speed for 4-1=<<4-1=3>>3 hours
 So he went 3*10=<<3*10=30>>30 miles
 That means it takes 30/6=<<30/6=5>>5 hours to get back
 #### 5
@@ -1993,7 +1993,7 @@ Time = 5 hours
 
 The answer: 5.
 [2024-12-31 14:10:44,709][INFO] [Judge] 0. Truth: 5, Answer: 5
-[2024-12-31 14:10:52,755][INFO] [Judge] [Truth]: 30 comic books weigh 7.5 pounds because 30 x .25 = <<30*.25=7.5>>7.5
+[2024-12-31 14:10:52,755][INFO] [Judge] [Ground Truth]: 30 comic books weigh 7.5 pounds because 30 x .25 = <<30*.25=7.5>>7.5
 He needs to remove 7.5 more pounds because 15 - 7.5 = <<15-7.5=7.5>>7.5
 He needs to remove 15 toys because 7.5 / .5 = <<15=15>>15
 #### 15
@@ -2018,7 +2018,7 @@ The number of toys Uriah needs to remove is:
 
 The answer: 15.
 [2024-12-31 14:10:52,755][INFO] [Judge] 0. Truth: 15, Answer: 15
-[2024-12-31 14:10:59,354][INFO] [Judge] [Truth]: On Thursday the mechanic charged a total of 6*60 + 4*40 = $<<6*60+4*40=520>>520.
+[2024-12-31 14:10:59,354][INFO] [Judge] [Ground Truth]: On Thursday the mechanic charged a total of 6*60 + 4*40 = $<<6*60+4*40=520>>520.
 On Friday the mechanic charged a total of 12*40 = $<<12*40=480>>480.
 Thus, on Thursday, the day with higher revenue, the mechanic had 520-480 = $<<520-480=40>>40 more revenue than on Friday.
 #### 40
@@ -2042,7 +2042,7 @@ Difference = $520 - $480 = $40
 
 The answer: 40.
 [2024-12-31 14:10:59,354][INFO] [Judge] 0. Truth: 40, Answer: 40
-[2024-12-31 14:11:07,362][INFO] [Judge] [Truth]: Patchy has just had 3 * 7 = <<3*7=21>>21 kittens
+[2024-12-31 14:11:07,362][INFO] [Judge] [Ground Truth]: Patchy has just had 3 * 7 = <<3*7=21>>21 kittens
 Since Trixie's kittens are 12, both cats have 21 +12 = <<21+12=33>>33 kittens.
 Combining the adopted kittens with those from the two cats, the Doubtfire family now has 7 + 33 = <<7+33=40>>40 kittens.
 #### 40
@@ -2068,7 +2068,7 @@ Total kittens = 50
 
 The answer: 50.
 [2024-12-31 14:11:07,362][INFO] [Judge] 1. Truth: 40, Answer: 50
-[2024-12-31 14:11:12,593][INFO] [Judge] [Truth]: Jean has 30 - 2 = <<30-2=28>>28 lollipops
+[2024-12-31 14:11:12,593][INFO] [Judge] [Ground Truth]: Jean has 30 - 2 = <<30-2=28>>28 lollipops
 Jean can fill up 28 / 2 = <<28/2=14>>14 bags with lollipops
 #### 14
 [2024-12-31 14:11:12,593][INFO] [Judge] [Answer]: 
@@ -2084,7 +2084,7 @@ Now, Jean wants to package 2 lollipops in one bag. To find out how many bags Jea
 
 The answer: 14.
 [2024-12-31 14:11:12,593][INFO] [Judge] 0. Truth: 14, Answer: 14
-[2024-12-31 14:11:18,651][INFO] [Judge] [Truth]: It costs him $14 to go to the movies because 7 + 7 = <<7+7=14>>14
+[2024-12-31 14:11:18,651][INFO] [Judge] [Ground Truth]: It costs him $14 to go to the movies because 7 + 7 = <<7+7=14>>14
 He can go to the movies 3 times because 42 / 14 = <<42/14=3>>3
 #### 3
 [2024-12-31 14:11:18,651][INFO] [Judge] [Answer]: 
@@ -2105,7 +2105,7 @@ So, Peter can go to the movies 3 times with his budget of $42.
 
 The answer: 3.
 [2024-12-31 14:11:18,651][INFO] [Judge] 0. Truth: 3, Answer: 3
-[2024-12-31 14:11:29,413][INFO] [Judge] [Truth]: The boxes can weigh up to 5000 pounds - 3755 pounds = <<5000-3755=1245>>1245 pounds in total.
+[2024-12-31 14:11:29,413][INFO] [Judge] [Ground Truth]: The boxes can weigh up to 5000 pounds - 3755 pounds = <<5000-3755=1245>>1245 pounds in total.
 There can be 1245 / 15 = <<1245/15=83>>83 boxes loaded onto the truck without exceeding the bridge's weight limit.
 #### 83
 [2024-12-31 14:11:29,413][INFO] [Judge] [Answer]: 
@@ -2130,7 +2130,7 @@ Therefore, the maximum number of boxes that can be loaded onto the truck without
 
 The answer: 83.
 [2024-12-31 14:11:29,413][INFO] [Judge] 0. Truth: 83, Answer: 83
-[2024-12-31 14:11:36,326][INFO] [Judge] [Truth]: He spent $40.00 on groceries but they charged him a 25% fee so that's 40*.25 = $10.00
+[2024-12-31 14:11:36,326][INFO] [Judge] [Ground Truth]: He spent $40.00 on groceries but they charged him a 25% fee so that's 40*.25 = $10.00
 There is also a $3.00 delivery fee and a $4.00 tip for an extra $3 + $4 = $<<3+4=7.00>>7.00 in fees
 His groceries were $40.00, there's a $10.00 fee plus another $7.00 in delivery/tip fees for a final total of $40 + $10 + $7 = $<<40+10+7=57.00>>57.00
 #### 57
@@ -2153,7 +2153,7 @@ $40.00 (original bill)
 
 The answer: 60.
 [2024-12-31 14:11:36,326][INFO] [Judge] 1. Truth: 57, Answer: 60
-[2024-12-31 14:11:41,333][INFO] [Judge] [Truth]: First find the number of fruit in clusters: 20 fruit/cluster * 6 clusters = <<20*6=120>>120 fruit
+[2024-12-31 14:11:41,333][INFO] [Judge] [Ground Truth]: First find the number of fruit in clusters: 20 fruit/cluster * 6 clusters = <<20*6=120>>120 fruit
 Then add the number of individual fruit to find the total number of fruit: 120 fruit + 67 fruit = <<120+67=187>>187 fruit
 #### 187
 [2024-12-31 14:11:41,333][INFO] [Judge] [Answer]: 
@@ -2171,7 +2171,7 @@ Now, we add the raspberries in the clusters to the individual raspberries:
 
 The answer: 187.
 [2024-12-31 14:11:41,333][INFO] [Judge] 0. Truth: 187, Answer: 187
-[2024-12-31 14:11:50,116][INFO] [Judge] [Truth]: 20% of 25 oranges is (20/100)*25 = <<(20/100)*25=5>>5 oranges
+[2024-12-31 14:11:50,116][INFO] [Judge] [Ground Truth]: 20% of 25 oranges is (20/100)*25 = <<(20/100)*25=5>>5 oranges
 The total number of bad, unripe and sour oranges is therefore 1+5+2 = <<1+5+2=8>>8 oranges
 The rest which is 25-8 = <<25-8=17>>17 oranges are good
 #### 17
@@ -2202,7 +2202,7 @@ Good oranges = 17
 
 The answer: 17.
 [2024-12-31 14:11:50,116][INFO] [Judge] 0. Truth: 17, Answer: 17
-[2024-12-31 14:11:59,688][INFO] [Judge] [Truth]: The total cost of the broch was 500+800=$<<500+800=1300>>1300
+[2024-12-31 14:11:59,688][INFO] [Judge] [Ground Truth]: The total cost of the broch was 500+800=$<<500+800=1300>>1300
 The insurance was 1300*.1=$<<1300*.1=130>>130
 So she pays 1300+130=$<<1300+130=1430>>1430
 #### 1430
@@ -2233,7 +2233,7 @@ Total amount paid = $1510
 
 The answer: 1510.
 [2024-12-31 14:11:59,688][INFO] [Judge] 1. Truth: 1430, Answer: 1510
-[2024-12-31 14:12:12,084][INFO] [Judge] [Truth]: First find how many years Marcy works after 20 years: 30 years - 20 years = <<30-20=10>>10 years
+[2024-12-31 14:12:12,084][INFO] [Judge] [Ground Truth]: First find how many years Marcy works after 20 years: 30 years - 20 years = <<30-20=10>>10 years
 Then multiply that number by the amount of her pension she gets per year: 10 years * 5% = 50%
 Then multiply that percentage by the total amount of the full pension to find how much she gets: $50,000 * 50% = $<<50000*50*.01=25000>>25,000
 #### 25000
@@ -2267,7 +2267,7 @@ Annual pension after 30 years = $75,000/year
 
 The answer: 75000.
 [2024-12-31 14:12:12,085][INFO] [Judge] 1. Truth: 25000, Answer: 75000
-[2024-12-31 14:12:22,334][INFO] [Judge] [Truth]: A year has twelve months, so a half of the year is 12/2 = <<12/2=6>>6 months,
+[2024-12-31 14:12:22,334][INFO] [Judge] [Ground Truth]: A year has twelve months, so a half of the year is 12/2 = <<12/2=6>>6 months,
 For the first six months, the streaming service charged her a total of 6*140 = $<<6*140=840>>840
 For the next half of the year, the streaming service company charged her 10/100*140 = $<<10/100*140=14>>14 less
 She paid $140-$14 = $<<140-14=126>>126 each month for the remaining half of the year,
@@ -2294,7 +2294,7 @@ To solve this problem, we need to calculate the amount Aleena paid for each half
 
 The answer: 1596.
 [2024-12-31 14:12:22,335][INFO] [Judge] 0. Truth: 1596, Answer: 1596
-[2024-12-31 14:12:29,735][INFO] [Judge] [Truth]: To find miles per gallon divide 100 miles / 4 gallons = <<100/4=25>>25 miles per gallon
+[2024-12-31 14:12:29,735][INFO] [Judge] [Ground Truth]: To find miles per gallon divide 100 miles / 4 gallons = <<100/4=25>>25 miles per gallon
 To find how far Olivia can go on a single tank, multiply 25 miles per gallon x 12 gallons = <<25*12=300>>300 miles
 #### 300
 [2024-12-31 14:12:29,735][INFO] [Judge] [Answer]: 
@@ -2312,7 +2312,7 @@ Now that we know Sophia's car can travel 25 miles on 1 gallon of gas, we can cal
 
 The answer: 300.
 [2024-12-31 14:12:29,735][INFO] [Judge] 0. Truth: 300, Answer: 300
-[2024-12-31 14:12:37,997][INFO] [Judge] [Truth]: He reads for 2/2=<<2/2=1>>1 hour a night
+[2024-12-31 14:12:37,997][INFO] [Judge] [Ground Truth]: He reads for 2/2=<<2/2=1>>1 hour a night
 So he spends 2+1=<<2+1=3>>3 hours on these activities
 That means he spends 3*3=<<3*3=9>>9 hours a week on them
 So in 4 weeks, he spends 9*4=<<9*4=36>>36 hours on these activities
@@ -2337,7 +2337,7 @@ Jim reads for half as long as he watches TV. So, he reads for 1 hour each day (s
 
 The answer: 84.
 [2024-12-31 14:12:37,997][INFO] [Judge] 1. Truth: 36, Answer: 84
-[2024-12-31 14:12:48,810][INFO] [Judge] [Truth]: Each school has sent 1 girls’ basketball team + 1 boys’ basketball team = <<1+1=2>>2 teams.
+[2024-12-31 14:12:48,810][INFO] [Judge] [Ground Truth]: Each school has sent 1 girls’ basketball team + 1 boys’ basketball team = <<1+1=2>>2 teams.
 So each school has sent 2 teams * 5 players per team = <<2*5=10>>10 players.
 They have also each sent 2 teams * 1 coach per team = <<2*1=2>>2 coaches.
 In total, each school has sent 10 players + 2 coaches = <<10+2=12>>12 people.
@@ -2368,7 +2368,7 @@ Total number of people sent = 40 + 8 = 48
 
 The answer: 48.
 [2024-12-31 14:12:48,810][INFO] [Judge] 0. Truth: 48, Answer: 48
-[2024-12-31 14:12:56,147][INFO] [Judge] [Truth]: There were 175 - 35 = <<175-35=140>>140 rubies in the treasure chest.
+[2024-12-31 14:12:56,147][INFO] [Judge] [Ground Truth]: There were 175 - 35 = <<175-35=140>>140 rubies in the treasure chest.
 There were 140 x 2 = <<140*2=280>>280 emeralds in the treasure chest.
 So, the total number of gems in the treasure chest is 175 + 140 + 280 = <<175+140+280=595>>595.
 #### 595
@@ -2393,7 +2393,7 @@ Total gems = 175 + 140 + 280 = 685
 
 The answer: 685.
 [2024-12-31 14:12:56,147][INFO] [Judge] 1. Truth: 595, Answer: 685
-[2024-12-31 14:13:07,172][INFO] [Judge] [Truth]: There are twice as many boys as girls, so if there are 60 girls, there are 2*60 = <<2*60=120>>120 boys
+[2024-12-31 14:13:07,172][INFO] [Judge] [Ground Truth]: There are twice as many boys as girls, so if there are 60 girls, there are 2*60 = <<2*60=120>>120 boys
 There are 120 + 60 = <<120+60=180>>180 students in total
 If there are 5 students to each teacher, then 180 students would need 180/5 = <<180/5=36>>36 teachers
 #### 36
@@ -2427,7 +2427,7 @@ Number of teachers = 36
 
 The answer: 36.
 [2024-12-31 14:13:07,173][INFO] [Judge] 0. Truth: 36, Answer: 36
-[2024-12-31 14:13:14,998][INFO] [Judge] [Truth]: In 8 weeks, Bailey receives $5 * 8 = $<<5*8=40>>40 in allowance
+[2024-12-31 14:13:14,998][INFO] [Judge] [Ground Truth]: In 8 weeks, Bailey receives $5 * 8 = $<<5*8=40>>40 in allowance
 Bailey started with $100 - $40 = $<<100-40=60>>60
 #### 60
 [2024-12-31 14:13:14,998][INFO] [Judge] [Answer]: 
@@ -2449,7 +2449,7 @@ Money Bailey started with = $60
 
 The answer: 60.
 [2024-12-31 14:13:14,998][INFO] [Judge] 0. Truth: 60, Answer: 60
-[2024-12-31 14:13:25,068][INFO] [Judge] [Truth]: She teaches 5 dance classes 5 days a week so that's 5*5 = <<5*5=25>>25 classes
+[2024-12-31 14:13:25,068][INFO] [Judge] [Ground Truth]: She teaches 5 dance classes 5 days a week so that's 5*5 = <<5*5=25>>25 classes
 She teaches 25 classes during the week and 8 classes on Saturday for a total of 25+8 = <<25+8=33>>33 classes
 There are 15 students in each of the 33 classes so there are 15*33 = <<15*33=495>>495 students
 Each student pays $15.00 per class and there are 495 students so Judy makes 15*495 = $<<15*495=7425>>7,425
@@ -2472,7 +2472,7 @@ Let's calculate each step:
 
 The answer: 7425.
 [2024-12-31 14:13:25,068][INFO] [Judge] 0. Truth: 7425, Answer: 7425
-[2024-12-31 14:13:30,779][INFO] [Judge] [Truth]: The second recipe has 2 * 20 instructions = <<2*20=40>>40 instructions.
+[2024-12-31 14:13:30,779][INFO] [Judge] [Ground Truth]: The second recipe has 2 * 20 instructions = <<2*20=40>>40 instructions.
 The total for the two dishes is 40 instructions + 20 instructions = <<40+20=60>>60 instructions.
 #### 60
 [2024-12-31 14:13:30,779][INFO] [Judge] [Answer]: 
@@ -2488,7 +2488,7 @@ Now, to find the total number of instructions Kelian has to read to prepare the 
 
 The answer: 60.
 [2024-12-31 14:13:30,779][INFO] [Judge] 0. Truth: 60, Answer: 60
-[2024-12-31 14:13:38,993][INFO] [Judge] [Truth]: Tommy raised 43 brownies x $3/brownie = $<<43*3=129>>129 by selling brownies.
+[2024-12-31 14:13:38,993][INFO] [Judge] [Ground Truth]: Tommy raised 43 brownies x $3/brownie = $<<43*3=129>>129 by selling brownies.
 Tommy raised 23 slices x $4 = $<<23*4=92>>92 by selling cheesecakes.
 In total Tommy has raised $129 + $92 = $<<129+92=221>>221
 #### 221
@@ -2513,7 +2513,7 @@ Total money raised = $221
 
 The answer: 221.
 [2024-12-31 14:13:38,993][INFO] [Judge] 0. Truth: 221, Answer: 221
-[2024-12-31 14:13:49,708][INFO] [Judge] [Truth]: A $150 x 2/100 = $<<150*2/100=3>>3 interest will be charged for each unit.
+[2024-12-31 14:13:49,708][INFO] [Judge] [Ground Truth]: A $150 x 2/100 = $<<150*2/100=3>>3 interest will be charged for each unit.
 So, each cell phone costs $150 + $3 = $<<150+3=153>>153.
 The total amount to be paid for 5 cell phones is $153 x 5 = $<<153*5=765>>765.
 Thus, Shiela will pay $765/3 = $<<765/3=255>>255 each month.
@@ -2546,7 +2546,7 @@ Here's the breakdown:
 
 The answer: 255.67.
 [2024-12-31 14:13:49,709][INFO] [Judge] 1. Truth: 255, Answer: 255.67
-[2024-12-31 14:14:00,842][INFO] [Judge] [Truth]: Artie will round his marigolds up from $2.74 to $3, since the number following the 2 is 5 or higher.
+[2024-12-31 14:14:00,842][INFO] [Judge] [Ground Truth]: Artie will round his marigolds up from $2.74 to $3, since the number following the 2 is 5 or higher.
 Artie will round his petunias up from $1.87 to $2, since the number following the 1 is 5 or higher.
 Artie will round his begonias down from $2.12 to $2, since the number following the 2 is less than 5.
 Artie sells 12 marigolds x $3 = $<<12*3=36>>36
@@ -2574,7 +2574,7 @@ To solve this problem, we need to calculate the total revenue from each type of 
 
 The answer: 88.
 [2024-12-31 14:14:00,842][INFO] [Judge] 0. Truth: 88, Answer: 88
-[2024-12-31 14:14:10,621][INFO] [Judge] [Truth]: Level 3 is 32 square feet because 16 x 2 = <<16*2=32>>32
+[2024-12-31 14:14:10,621][INFO] [Judge] [Ground Truth]: Level 3 is 32 square feet because 16 x 2 = <<16*2=32>>32
 Level 2 is 64 square feet because 32 x 2 = <<32*2=64>>64
 Level 1 is 128 square feet because 64 x 2 = <<64*2=128>>128
 The four levels total to 240 square feet because 128 + 64 + 32 + 16 = <<128+64+32+16=240>>240
@@ -2602,7 +2602,7 @@ The average square footage of a level is:
 
 The answer: 8.
 [2024-12-31 14:14:10,621][INFO] [Judge] 1. Truth: 60, Answer: 8
-[2024-12-31 14:14:23,374][INFO] [Judge] [Truth]: The number of cups of dog food given for the first 180 days is 180 * 1 = <<180*1=180>>180 cups
+[2024-12-31 14:14:23,374][INFO] [Judge] [Ground Truth]: The number of cups of dog food given for the first 180 days is 180 * 1 = <<180*1=180>>180 cups
 The number of days left in the year is 365 - 180 = <<365-180=185>>185
 The number of cups of dog food given for the rest of the first year is 185 * 2 = <<185*2=370>>370 cups
 The total number of cups given in the first year is 180 + 370 = <<180+370=550>>550 cups
@@ -2633,7 +2633,7 @@ Therefore, Cecilia will use 631 bags of dog food in the first year.
 
 The answer: 631.
 [2024-12-31 14:14:23,374][INFO] [Judge] 1. Truth: 5, Answer: 631
-[2024-12-31 14:14:31,062][INFO] [Judge] [Truth]: If Sarah does 400 pounds of laundry, and Raymond does half as much laundry as Sarah, Raymond does 1/2*400 = 200 pounds of laundry.
+[2024-12-31 14:14:31,062][INFO] [Judge] [Ground Truth]: If Sarah does 400 pounds of laundry, and Raymond does half as much laundry as Sarah, Raymond does 1/2*400 = 200 pounds of laundry.
 Sara also does 4 times as much laundry as David, meaning David does 400/4 = <<400/4=100>>100 pounds of laundry.
 The difference in the amount of laundry Raymond and David do is 200-100 = <<200-100=100>>100 pounds
 #### 100
@@ -2652,7 +2652,7 @@ The difference is R - D = 200 - 100 = 100 pounds.
 
 The answer: 100.
 [2024-12-31 14:14:31,062][INFO] [Judge] 0. Truth: 100, Answer: 100
-[2024-12-31 14:14:52,191][INFO] [Judge] [Truth]: Find how many packages of 3 would be needed which is 18 ÷ 3 = <<18/3=6>>6.
+[2024-12-31 14:14:52,191][INFO] [Judge] [Ground Truth]: Find how many packages of 3 would be needed which is 18 ÷ 3 = <<18/3=6>>6.
 The cost of using packages of 3 is 6 × $2.50 = $<<6*2.5=15>>15.
 Find how many packages of 2 would be needed which is 18 ÷ 2 = <<18/2=9>>9.
 The cost of using packages of 2 is 9 × $1 = $<<9*1=9>>9.
@@ -2706,7 +2706,7 @@ Savings = $15
 
 The answer: 15.
 [2024-12-31 14:14:52,191][INFO] [Judge] 1. Truth: 6, Answer: 15
-[2024-12-31 14:14:56,263][INFO] [Judge] [Truth]: The groomer gave a 100*.3=$<<100*.3=30>>30 discount
+[2024-12-31 14:14:56,263][INFO] [Judge] [Ground Truth]: The groomer gave a 100*.3=$<<100*.3=30>>30 discount
 So the grooming cost 100-30=$<<100-30=70>>70
 #### 70
 [2024-12-31 14:14:56,263][INFO] [Judge] [Answer]: 
@@ -2721,7 +2721,7 @@ To calculate the grooming cost after the discount, we follow these steps:
 
 The answer: 70.
 [2024-12-31 14:14:56,263][INFO] [Judge] 0. Truth: 70, Answer: 70
-[2024-12-31 14:15:04,903][INFO] [Judge] [Truth]: Each of the girls got 24 x 1/6 = <<24*1/6=4>>4 liters of water.
+[2024-12-31 14:15:04,903][INFO] [Judge] [Ground Truth]: Each of the girls got 24 x 1/6 = <<24*1/6=4>>4 liters of water.
 So the two girls got a total of 4 x 2 = <<4*2=8>>8 liters.
 Thus, a total of 8 + 6 = <<8+6=14>>14 liters of water were gotten by the two girls and the boy.
 Therefore, 24 - 14 = <<24-14=10>>10 liters of water were left.
@@ -2753,7 +2753,7 @@ Water left = 10 liters
 
 The answer: 10.
 [2024-12-31 14:15:04,904][INFO] [Judge] 0. Truth: 10, Answer: 10
-[2024-12-31 14:15:15,697][INFO] [Judge] [Truth]: The total number of stickers is 10 + 21 + 23 = <<10+21+23=54>>54.
+[2024-12-31 14:15:15,697][INFO] [Judge] [Ground Truth]: The total number of stickers is 10 + 21 + 23 = <<10+21+23=54>>54.
 The number of stickers given away and used on the greeting card is 9 + 28 = <<9+28=37>>37.
 Charlie has 54 − 37 = 17 stickers left.
 #### 17
@@ -2788,7 +2788,7 @@ Total stickers left = 17
 
 The answer: 17.
 [2024-12-31 14:15:15,697][INFO] [Judge] 0. Truth: 17, Answer: 17
-[2024-12-31 14:15:22,990][INFO] [Judge] [Truth]: Alex weighs 125*4-2 = <<125*4-2=498>>498.
+[2024-12-31 14:15:22,990][INFO] [Judge] [Ground Truth]: Alex weighs 125*4-2 = <<125*4-2=498>>498.
 Their combined weights are 125+498 = <<125+498=623>>623 pounds.
 #### 623
 [2024-12-31 14:15:22,990][INFO] [Judge] [Answer]: 
@@ -2815,7 +2815,7 @@ To find their combined weights, we add Grace's weight to Alex's weight:
 
 The answer: 623.
 [2024-12-31 14:15:22,990][INFO] [Judge] 0. Truth: 623, Answer: 623
-[2024-12-31 14:15:28,690][INFO] [Judge] [Truth]: First find the total number of roses: 3 bushes * 25 roses/bush = <<3*25=75>>75 roses
+[2024-12-31 14:15:28,690][INFO] [Judge] [Ground Truth]: First find the total number of roses: 3 bushes * 25 roses/bush = <<3*25=75>>75 roses
 Then multiply the number of roses by the number of thorns per rose: 75 roses * 8 thorns/rose = <<75*8=600>>600 thorns
 #### 600
 [2024-12-31 14:15:28,690][INFO] [Judge] [Answer]: 
@@ -2837,7 +2837,7 @@ Now, let's calculate the total number of thorns:
 
 The answer: 600.
 [2024-12-31 14:15:28,690][INFO] [Judge] 0. Truth: 600, Answer: 600
-[2024-12-31 14:15:38,601][INFO] [Judge] [Truth]: Let L be the number of losses.
+[2024-12-31 14:15:38,601][INFO] [Judge] [Ground Truth]: Let L be the number of losses.
 The number of wins is L + <<+8=8>>8.
 The team played (L+8) + L = 2L + 8 = 22 games.
 So, 2L = 22 - 8 = 14
@@ -2871,7 +2871,7 @@ Number of games won = 15
 
 The answer: 15.
 [2024-12-31 14:15:38,601][INFO] [Judge] 0. Truth: 15, Answer: 15
-[2024-12-31 14:15:47,688][INFO] [Judge] [Truth]: Gene has been on 34 - 23 = <<34-23=11>>11 years of vacations, so he has 11 rows of blocks.
+[2024-12-31 14:15:47,688][INFO] [Judge] [Ground Truth]: Gene has been on 34 - 23 = <<34-23=11>>11 years of vacations, so he has 11 rows of blocks.
 He goes on 4 vacations a year, so he has been on 4 * 11 = <<4*11=44>>44 vacations.
 Gene has 1 shirt from each vacation, so he has 44 * 1 = <<44*1=44>>44 quilt blocks in all.
 #### 44
@@ -2897,7 +2897,7 @@ To solve this problem, we need to calculate the total number of quilt blocks Gen
 
 The answer: 44.
 [2024-12-31 14:15:47,688][INFO] [Judge] 0. Truth: 44, Answer: 44
-[2024-12-31 14:15:55,243][INFO] [Judge] [Truth]: The second time Greg’s alarm went off, it rang three times as long as the first, so it rang 3 * 4 = <<3*4=12>>12 times the second time.
+[2024-12-31 14:15:55,243][INFO] [Judge] [Ground Truth]: The second time Greg’s alarm went off, it rang three times as long as the first, so it rang 3 * 4 = <<3*4=12>>12 times the second time.
 The third time it went off, it rang half as long as the second, so it rang 12 / 2 = <<12/2=6>>6 times the third time.
 In all, Greg’s alarm rang 4 + 12 + 6 = <<4+12+6=22>>22 times.
 #### 22
@@ -2920,7 +2920,7 @@ Total: 4 + 12 + 6 = 22 times
 
 The answer: 22.
 [2024-12-31 14:15:55,243][INFO] [Judge] 0. Truth: 22, Answer: 22
-[2024-12-31 14:16:03,148][INFO] [Judge] [Truth]: In a month, Sylvie earns $600. which totals $600/month * 12 months/year = $7200 in a year.
+[2024-12-31 14:16:03,148][INFO] [Judge] [Ground Truth]: In a month, Sylvie earns $600. which totals $600/month * 12 months/year = $7200 in a year.
 Sylvie earnings will increase by 10/100 * $7200/year = $<<10/100*7200=720>>720/year after 5 years.
 In three years, the total increase in her salary will be 3 years * $720/year = $<<3*720=2160>>2160
 After three years, Sylvie will be paid $7200 + $2160 = $<<7200+2160=9360>>9360
@@ -2950,7 +2950,7 @@ After three more years of service, Sylvie's annual salary will be $798.60.
 
 The answer: 798.60.
 [2024-12-31 14:16:03,148][INFO] [Judge] 1. Truth: 9360, Answer: 798.6
-[2024-12-31 14:16:10,479][INFO] [Judge] [Truth]: Let m be the number of copies Marilyn sold and h be the number Harald sold. We know that m + h = 80,000 and m = 10h.
+[2024-12-31 14:16:10,479][INFO] [Judge] [Ground Truth]: Let m be the number of copies Marilyn sold and h be the number Harald sold. We know that m + h = 80,000 and m = 10h.
 Substituting the second equation into the first, we get 10h + h = 88,000
 Combining like terms, we get 11h = 88,000
 Dividing both sides by 11, we get h = 8,000
@@ -2978,7 +2978,7 @@ So, Harald sold 8,000 copies.
 
 The answer: 8,000.
 [2024-12-31 14:16:10,480][INFO] [Judge] 0. Truth: 8000, Answer: 8000
-[2024-12-31 14:16:22,163][INFO] [Judge] [Truth]: She needs 12 gift bags because 16 x .75 = <<16*.75=12>>12
+[2024-12-31 14:16:22,163][INFO] [Judge] [Ground Truth]: She needs 12 gift bags because 16 x .75 = <<16*.75=12>>12
 She will spend $24 because 12 x 2 = <<12*2=24>>24
 #### 24
 [2024-12-31 14:16:22,164][INFO] [Judge] [Answer]: 
@@ -3008,7 +3008,7 @@ Total cost = $18
 
 The answer: 18.
 [2024-12-31 14:16:22,164][INFO] [Judge] 1. Truth: 24, Answer: 18
-[2024-12-31 14:16:31,700][INFO] [Judge] [Truth]: Half of 10 pounds is 10/2=<<10/2=5>>5 pounds.
+[2024-12-31 14:16:31,700][INFO] [Judge] [Ground Truth]: Half of 10 pounds is 10/2=<<10/2=5>>5 pounds.
 To feed 20 dinosaur adults, he will need 20*10=<<20*10=200>>200 pounds of potato salad.
 To feed 5 dinosaur children, he will need 5*5=<<5*5=25>>25 pounds of potato salad.
 In total, he will need to bring 200+25=<<200+25=225>>225 pounds of potato salad to the picnic.
@@ -3033,7 +3033,7 @@ Finally, let's add the total amount of potato salad needed for the adults and ch
 
 The answer: 225.
 [2024-12-31 14:16:31,700][INFO] [Judge] 0. Truth: 225, Answer: 225
-[2024-12-31 14:16:39,034][INFO] [Judge] [Truth]: Marcia has 4 + 2 = <<4+2=6>>6 pets.
+[2024-12-31 14:16:39,034][INFO] [Judge] [Ground Truth]: Marcia has 4 + 2 = <<4+2=6>>6 pets.
 Jan has 3 * 6 = <<3*6=18>>18 pets
 In total, the three have 4 + 6 + 18 = <<4+6+18=28>>28 pets.
 #### 28
@@ -3058,7 +3058,7 @@ Total pets = 38
 
 The answer: 38.
 [2024-12-31 14:16:39,034][INFO] [Judge] 1. Truth: 28, Answer: 38
-[2024-12-31 14:16:45,489][INFO] [Judge] [Truth]: James is 10 and 1 year younger than Corey, so Corey is 10 + 1 = <<10+1=11>>11 years old
+[2024-12-31 14:16:45,489][INFO] [Judge] [Ground Truth]: James is 10 and 1 year younger than Corey, so Corey is 10 + 1 = <<10+1=11>>11 years old
 Amy is 2 years younger than Corey so is 11 - 2 = 9 years old
 Amy is also 5 years older than Jackson, so Jackson is 9 - 5 = <<9-5=4>>4 years old
 #### 4
@@ -3080,7 +3080,7 @@ From point 3, we can deduce that Jackson is 9 - 5 = 4 years old.
 
 The answer: 4.
 [2024-12-31 14:16:45,489][INFO] [Judge] 0. Truth: 4, Answer: 4
-[2024-12-31 14:16:52,841][INFO] [Judge] [Truth]: If Lee runs the 400-meter hurdles in 38 seconds, which was two seconds faster than Gerald used to run the 400-meter hurdles, then Gerald initially would run the 400-meter hurdles in 38+2=<<38+2=40>>40 seconds.
+[2024-12-31 14:16:52,841][INFO] [Judge] [Ground Truth]: If Lee runs the 400-meter hurdles in 38 seconds, which was two seconds faster than Gerald used to run the 400-meter hurdles, then Gerald initially would run the 400-meter hurdles in 38+2=<<38+2=40>>40 seconds.
 10% of 40 seconds is 40*0.1=<<40*0.1=4>>4 seconds.
 The improved diet reduced Gerald's race time to 40-4=<<40-4=36>>36 seconds.
 #### 36
@@ -3103,7 +3103,7 @@ Let's break down the problem step by step.
 
 The answer: 36.
 [2024-12-31 14:16:52,841][INFO] [Judge] 0. Truth: 36, Answer: 36
-[2024-12-31 14:17:02,916][INFO] [Judge] [Truth]: If there are two cats for every dog, and the number of dogs is 60, the number of cats is 2*60 = <<2*60=120>>120
+[2024-12-31 14:17:02,916][INFO] [Judge] [Ground Truth]: If there are two cats for every dog, and the number of dogs is 60, the number of cats is 2*60 = <<2*60=120>>120
 The combined number of cats and dogs is 120+60 = <<120+60=180>>180
 The number of rabbits pets is twelve less than the combined number of pet dogs and cats, a total of 180-12 = 168
 The total number of pets in the compound is 168+180 = <<168+180=348>>348
@@ -3134,7 +3134,7 @@ Now, let's move on to step 4:
 
 The answer: 348.
 [2024-12-31 14:17:02,916][INFO] [Judge] 0. Truth: 348, Answer: 348
-[2024-12-31 14:17:13,932][INFO] [Judge] [Truth]: There are 200 x 2/5 = <<200*2/5=80>>80 boys in Grade 5.
+[2024-12-31 14:17:13,932][INFO] [Judge] [Ground Truth]: There are 200 x 2/5 = <<200*2/5=80>>80 boys in Grade 5.
 So, 200 - 80 = <<200-80=120>>120 are girls.
 Out of the 120 girls, 120 x 2/3 = <<120*2/3=80>>80 are in the girl scout.
 Therefore, 120 - 80 = <<120-80=40>>40 girls are not in the girl scout.
@@ -3170,7 +3170,7 @@ Let's calculate each step:
 
 The answer: 40.
 [2024-12-31 14:17:13,932][INFO] [Judge] 0. Truth: 40, Answer: 40
-[2024-12-31 14:17:21,909][INFO] [Judge] [Truth]: James slept 9 hours * 2/3 = <<9*2/3=6>>6 hours.
+[2024-12-31 14:17:21,909][INFO] [Judge] [Ground Truth]: James slept 9 hours * 2/3 = <<9*2/3=6>>6 hours.
 So, Harry slept 9 - 6 = <<9-6=3>>3 hours more than James.
 #### 3
 [2024-12-31 14:17:21,909][INFO] [Judge] [Answer]: 
@@ -3194,7 +3194,7 @@ So, Harry slept 3 more hours than James.
 
 The answer: 3.
 [2024-12-31 14:17:21,909][INFO] [Judge] 0. Truth: 3, Answer: 3
-[2024-12-31 14:17:30,819][INFO] [Judge] [Truth]: Tomatoes lose half their volume when made into sauce, so Freda started with 32 * 2 = <<32*2=64>>64 ounces of tomatoes.
+[2024-12-31 14:17:30,819][INFO] [Judge] [Ground Truth]: Tomatoes lose half their volume when made into sauce, so Freda started with 32 * 2 = <<32*2=64>>64 ounces of tomatoes.
 At 16 ounces per can, she used 64 / 16 = <<64/16=4>>4 cans of tomatoes.
 At 3 tomatoes a can, Freda used 3 * 4 = <<3*4=12>>12 tomatoes.
 #### 12
@@ -3219,7 +3219,7 @@ Now, we know that each can contains three tomatoes. So, for 4 cans:
 
 The answer: 12.
 [2024-12-31 14:17:30,819][INFO] [Judge] 0. Truth: 12, Answer: 12
-[2024-12-31 14:17:35,353][INFO] [Judge] [Truth]: The cars that exited do not need to be included so there were 30 original cars – 5 cars that exited = <<30-5=25>>25 cars that drove through the traffic jam.
+[2024-12-31 14:17:35,353][INFO] [Judge] [Ground Truth]: The cars that exited do not need to be included so there were 30 original cars – 5 cars that exited = <<30-5=25>>25 cars that drove through the traffic jam.
 Most of the cars exited in the final 15 minutes so in the first 15 minutes, there must have been 25 total cars – 20 cars that drove through in the final 15 minutes = 5 cars that drove through the traffic jam.
 #### 5
 [2024-12-31 14:17:35,354][INFO] [Judge] [Answer]: 
