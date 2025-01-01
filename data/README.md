@@ -3,7 +3,7 @@
  * 
  * @Author: Albresky
  * @Date: 2024-12-29 12:50:59
- * @LastEditTime: 2024-12-29 23:43:09
+ * @LastEditTime: 2025-01-01 12:13:48
  * @FilePath: /Advanced-Machine-Learning/data/README.md
  * 
  * @Description: 
@@ -38,8 +38,8 @@ You should download the following datasets and put them in this folder.
 - [GSM8K](https://huggingface.co/datasets/openai/gsm8k) -> `./gsm8k/`
 - [First and Last Names Database](https://github.com/philipperemy/name-dataset) -> `./name_dataset/`
 - [ChatGLM4](https://huggingface.co/THUDM/glm-4-9b-chat-hf/tree/main) -> `./glm-4-9b-chat-hf`
-- [Llama-2-13B](https://huggingface.co/THUDM/llama-2-13b-hf) -> `./Llama-2-13b-hf`
-- [Llama-2-7B](https://huggingface.co/THUDM/llama-2-7b-hf) -> `./Llama-2-7b-hf`
+- [Llama-2-13B-Chat](https://huggingface.co/THUDM/llama-2-13b-chat-hf) -> `./Llama-2-13b-chat-hf`
+- [Llama-2-7B-Chat](https://huggingface.co/THUDM/llama-2-7b-chat-hf) -> `./Llama-2-7b-chat-hf`
 
 Finnally, the structure of this folder should be like this:
 
@@ -81,6 +81,23 @@ data
 ├── gsm8k
 │   ├── test-00000-of-00001.parquet
 │   └── train-00000-of-00001.parquet
+├── Llama-2-13b-chat-hf
+│   ├── config.json
+│   ├── generation_config.json
+│   ├── gitattributes
+│   ├── LICENSE.txt
+│   ├── model-00001-of-00003.safetensors
+│   ├── model-00002-of-00003.safetensors
+│   ├── model-00003-of-00003.safetensors
+│   ├── model.safetensors.index.json
+│   ├── pytorch_model-00001-of-00003.bin
+│   ├── pytorch_model-00002-of-00003.bin
+│   ├── pytorch_model-00003-of-00003.bin
+│   ├── pytorch_model.bin.index.json
+│   ├── special_tokens_map.json
+│   ├── tokenizer_config.json
+│   ├── tokenizer.json
+│   └── tokenizer.model
 ├── Llama-2-13b-hf
 │   ├── config.json
 │   ├── generation_config.json
@@ -100,24 +117,41 @@ data
 │   ├── tokenizer.json
 │   ├── tokenizer.model
 │   └── USE_POLICY.md
+├── Llama-2-7b-chat-hf
+│   ├── config.json
+│   ├── generation_config.json
+│   ├── gitattributes
+│   ├── LICENSE.txt
+│   ├── model-00001-of-00002.safetensors
+│   ├── model-00002-of-00002.safetensors
+│   ├── model.safetensors.index.json
+│   ├── pytorch_model-00001-of-00002.bin
+│   ├── pytorch_model-00002-of-00002.bin
+│   ├── pytorch_model.bin.index.json
+│   ├── README.md
+│   ├── special_tokens_map.json
+│   ├── tokenizer_config.json
+│   ├── tokenizer.json
+│   ├── tokenizer.model
+│   └── USE_POLICY.md
 ├── Llama-2-7b-hf
-|   ├── config.json
-|   ├── generation_config.json
-|   ├── LICENSE.txt
-|   ├── model-00001-of-00002.safetensors
-|   ├── model-00002-of-00002.safetensors
-|   ├── model.safetensors.index.json
-|   ├── pytorch_model-00001-of-00002.bin
-|   ├── pytorch_model-00002-of-00002.bin
-|   ├── pytorch_model.bin.index.json
-|   ├── README.md
-|   ├── requirements.txt
-|   ├── Responsible-Use-Guide.pdf
-|   ├── special_tokens_map.json
-|   ├── tokenizer_config.json
-|   ├── tokenizer.json
-|   ├── tokenizer.model
-|   └── USE_POLICY.md
+│   ├── config.json
+│   ├── generation_config.json
+│   ├── LICENSE.txt
+│   ├── model-00001-of-00002.safetensors
+│   ├── model-00002-of-00002.safetensors
+│   ├── model.safetensors.index.json
+│   ├── pytorch_model-00001-of-00002.bin
+│   ├── pytorch_model-00002-of-00002.bin
+│   ├── pytorch_model.bin.index.json
+│   ├── README.md
+│   ├── requirements.txt
+│   ├── Responsible-Use-Guide.pdf
+│   ├── special_tokens_map.json
+│   ├── tokenizer_config.json
+│   ├── tokenizer.json
+│   ├── tokenizer.model
+│   └── USE_POLICY.md
 ├── name_dataset
 │   ├── data
 │   │   ├── AE.csv
