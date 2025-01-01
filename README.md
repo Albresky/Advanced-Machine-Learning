@@ -7,7 +7,14 @@
 ```shell
 .
 ├── data
-│   └── cifar-10-python.tar.gz
+│   ├── chatglm2-6b
+│   ├── glm-4-9b-chat-hf
+│   ├── gsm8k
+│   ├── Llama-2-13b-chat-hf
+│   ├── Llama-2-13b-hf
+│   ├── Llama-2-7b-chat-hf
+│   ├── Llama-2-7b-hf
+│   └── README.md
 ├── exper_a1
 │   └── Assignment_A1.ipynb
 ├── exper_a2
@@ -19,15 +26,17 @@
 │   ├── c_generator.pth
 │   ├── generator.pth
 │   └── images
-│       ├── CGAN_loss.png
-│       ├── cgan_samples.png
-│       ├── GAN_loss.png
-│       └── gan_samples.png
 ├── exper_a4
 │   ├── Assignment_A4.ipynb
 │   └── Assignment_A4.pdf
+├── exper_a5
+│   ├── Assignment_A5.ipynb
+│   ├── Assignment_A5.pdf
+│   ├── images
+│   └── logs
 ├── Makefile
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 # 如何导出
@@ -79,6 +88,12 @@ make a3_vae
 
 # 生成 Assignment_A4.pdf
 make a4
+
+# 生成 Assignment_A5.pdf
+make a5
+
+# 清理生成的文件
+make clean
 ```
 
 
