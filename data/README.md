@@ -98,25 +98,6 @@ data
 │   ├── tokenizer_config.json
 │   ├── tokenizer.json
 │   └── tokenizer.model
-├── Llama-2-13b-hf
-│   ├── config.json
-│   ├── generation_config.json
-│   ├── LICENSE.txt
-│   ├── model-00001-of-00003.safetensors
-│   ├── model-00002-of-00003.safetensors
-│   ├── model-00003-of-00003.safetensors
-│   ├── model.safetensors.index.json
-│   ├── pytorch_model-00001-of-00003.bin
-│   ├── pytorch_model-00002-of-00003.bin
-│   ├── pytorch_model-00003-of-00003.bin
-│   ├── pytorch_model.bin.index.json
-│   ├── README.md
-│   ├── Responsible-Use-Guide.pdf
-│   ├── special_tokens_map.json
-│   ├── tokenizer_config.json
-│   ├── tokenizer.json
-│   ├── tokenizer.model
-│   └── USE_POLICY.md
 ├── Llama-2-7b-chat-hf
 │   ├── config.json
 │   ├── generation_config.json
@@ -129,24 +110,6 @@ data
 │   ├── pytorch_model-00002-of-00002.bin
 │   ├── pytorch_model.bin.index.json
 │   ├── README.md
-│   ├── special_tokens_map.json
-│   ├── tokenizer_config.json
-│   ├── tokenizer.json
-│   ├── tokenizer.model
-│   └── USE_POLICY.md
-├── Llama-2-7b-hf
-│   ├── config.json
-│   ├── generation_config.json
-│   ├── LICENSE.txt
-│   ├── model-00001-of-00002.safetensors
-│   ├── model-00002-of-00002.safetensors
-│   ├── model.safetensors.index.json
-│   ├── pytorch_model-00001-of-00002.bin
-│   ├── pytorch_model-00002-of-00002.bin
-│   ├── pytorch_model.bin.index.json
-│   ├── README.md
-│   ├── requirements.txt
-│   ├── Responsible-Use-Guide.pdf
 │   ├── special_tokens_map.json
 │   ├── tokenizer_config.json
 │   ├── tokenizer.json
