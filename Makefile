@@ -8,15 +8,17 @@ A1_DIR := ./exper_a1
 A2_DIR := ./exper_a2
 A3_DIR := ./exper_a3
 A4_DIR := ./exper_a4
+A5_DIR := ./exper_a5
 
 BUILD_A1_DIR := $(BUILD_DIR)/$(A1_DIR)
 BUILD_A2_DIR := $(BUILD_DIR)/$(A2_DIR)
 BUILD_A3_DIR := $(BUILD_DIR)/$(A3_DIR)
 BUILD_A4_DIR := $(BUILD_DIR)/$(A4_DIR)
+BUILD_A5_DIR := $(BUILD_DIR)/$(A5_DIR)
 
 AUTHOR := ShiKai@2024xxx
 
-.PHONY: a1 a2 a3 a4 all clean
+.PHONY: a1 a2 a3 a4 a5 all clean
 
 a1:
 	echo "Building Assignment A1..."
@@ -61,7 +63,15 @@ a4:
 	sed -i 's|\\title{.*}|\\title{Assignment A4-RNN by $(AUTHOR)}|' $(BUILD_A4_DIR)/Assignment_A4.tex
 	$(PDF_CMD) -output-directory=$(BUILD_A4_DIR) $(BUILD_A4_DIR)/Assignment_A4.tex
 
-all: a1 a2 a3 a4
+a5:
+	echo "Building Assignment LLMs of A5..."
+	mkdir -p $(BUILD_A5_DIR)
+	$(CONVERT_CMD) $(A5_DIR)/Assignment_A5.ipynb --output-dir $(BUILD_A5_DIR)
+	sed -i '1a\\\usepackage{fontspec, xunicode, xltxtra}\n\\setmainfont{WenQuanYi Zen Hei}' $(BUILD_A5_DIR)/Assignment_A5.tex
+	sed -i 's|\\title{.*}|\\title{Assignment LLMs Benchmark by $(AUTHOR)}|' $(BUILD_A5_DIR)/Assignment_A5.tex
+	$(PDF_CMD) -output-directory=$(BUILD_A5_DIR) $(BUILD_A5_DIR)/Assignment_A5.tex
+
+all: a1 a2 a3 a4 a5
 
 clean:
 	rm -rf $(BUILD_DIR)
